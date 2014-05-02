@@ -1,0 +1,139 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 1217
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 8
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 137
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-02 ; Times: 2
+	Date: 2014-04-03 ; Times: 4
+	Date: 2014-04-08 ; Times: 2
+	Date: 2014-04-15 ; Times: 10
+	Date: 2014-04-16 ; Times: 2
+	Date: 2014-04-17 ; Times: 10
+	Date: 2014-04-18 ; Times: 4
+	Date: 2014-04-19 ; Times: 4
+	Date: 2014-04-21 ; Times: 3
+	Date: 2014-04-22 ; Times: 1
+	Date: 2014-04-24 ; Times: 12
+	Date: 2014-04-25 ; Times: 4
+	Date: 2014-04-26 ; Times: 14
+	Date: 2014-04-27 ; Times: 22
+	Date: 2014-04-28 ; Times: 46
+	Date: 2014-04-29 ; Times: 29
+	Date: 2014-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "heterodon ("New York")" ; Times: 1
+	Query: "Scyliorhinus" ; Times: 3
+	Query: "Gobiomorus maculatus" ; Times: 2
+	Query: "Hoplias malabaricus" ; Times: 63
+	Query: "brevirostris (Gymnotiformes)" ; Times: 1
+	Query: "astroblepus" ; Times: 3
+	Query: "heterodon stateprovince:"New York"" ; Times: 1
+	Query: "Catostomus santaanae" ; Times: 2
+	Query: "Hoplias microlepis" ; Times: 1
+	Query: "Rhamdia quelen" ; Times: 2
+	Query: "genus:lepomis" ; Times: 3
+	Query: "Astyanax ruberrimus" ; Times: 5
+	Query: "Pseudochalceus lineatus" ; Times: 3
+	Query: "Etheostoma parvipinne" ; Times: 3
+	Query: "Ichthyoelephas humeralis" ; Times: 2
+	Query: "Brachyhypopomus brevirostris" ; Times: 3
+	Query: "Brachyhypopomus occidentalis" ; Times: 3
+	Query: "ictalurus" ; Times: 1
+	Query: "institutioncode:KU" ; Times: 3
+	Query: "hoplias malabaricus" ; Times: 4
+	Query: "notropis buchanani" ; Times: 3
+	Query: "Ctenogobius sagittula" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 4
+	Query: "notropis anogenus" ; Times: 5
+	Query: "Actinopterygii Ecuador" ; Times: 1
+	Query: "Sicydium salvini" ; Times: 1
+	Query: "Chaetostoma microps" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "brevirostris class:Actinopterygii" ; Times: 2
+	Query: "heterodon "New York"" ; Times: 2
+	Query: "Gobionellus microdon" ; Times: 1
+	Query: "Lasiancistrus planiceps" ; Times: 1
+	Query: "Brachyhypopomus sp" ; Times: 1
+	Query: "Dormitator latifrons" ; Times: 1
+	Query: "Rhoadsia altipinna" ; Times: 3
+	Query: "Ancistrus spinosus" ; Times: 2
+	Query: "class:Actinopterygii" ; Times: 1
+	Query: "Hypopomus" ; Times: 2
+	Query: "(Gymnotidae)" ; Times: 2
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Eleotris picta" ; Times: 1
+	Query: "Gasteropelecus maculatus" ; Times: 3
+	Query: "lepomis" ; Times: 3
+	Query: "institutioncode:ku" ; Times: 1
+	Query: "Bathophilus" ; Times: 1
+	Query: "Chaetostoma fischeri" ; Times: 1
+	Query: "Hyphessobrycon sp" ; Times: 2
+	Query: "xyrauchen" ; Times: 1
+	Query: "Profundulus punctatus" ; Times: 1
+	Query: "Hyphessobrycon Ecuador" ; Times: 1
+	Query: "paleo records" ; Times: 1
+	Query: "Roeboides occidentalis" ; Times: 4
+	Query: "Astroblepus eigenmann" ; Times: 1
+	Query: "Microglanis variegatus" ; Times: 2
+	Query: "Agonostomus monticola" ; Times: 1
+	Query: "country:"Ecuador" (Gymnotidae)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 433 download events in this period)
+Total number of records downloaded: 6416 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3232
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-10 ; Times: 1
+	Date: 2014-04-15 ; Times: 2
+	Date: 2014-04-16 ; Times: 1
+	Date: 2014-04-18 ; Times: 1
+	Date: 2014-04-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "alligator" ; Times: 1
+	Query: "genus:lepomis" ; Times: 2
+	Query: "astroblepus" ; Times: 2
+	Query: "Scyliorhinus" ; Times: 1
+	Query: "country:"Colombia" mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 171
+Total number of records retrieved from searches: 1217
+Number of download events that retrieved data from the resource: 26
+Total number of records downloaded: 8272
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 171
+Total number of records retrieved from searches: 1217
+Number of download events that retrieved data from the resource: 48
+Total number of records downloaded: 12451
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

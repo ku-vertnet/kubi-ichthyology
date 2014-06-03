@@ -1,0 +1,104 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 732
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: Thailand ; Times: 8
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 4
+	Date: 2014-05-02 ; Times: 1
+	Date: 2014-05-05 ; Times: 1
+	Date: 2014-05-06 ; Times: 1
+	Date: 2014-05-08 ; Times: 2
+	Date: 2014-05-12 ; Times: 5
+	Date: 2014-05-13 ; Times: 3
+	Date: 2014-05-14 ; Times: 1
+	Date: 2014-05-15 ; Times: 1
+	Date: 2014-05-16 ; Times: 10
+	Date: 2014-05-19 ; Times: 4
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-21 ; Times: 6
+	Date: 2014-05-23 ; Times: 1
+	Date: 2014-05-24 ; Times: 1
+	Date: 2014-05-27 ; Times: 1
+	Date: 2014-05-28 ; Times: 5
+	Date: 2014-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mammalogy" ; Times: 2
+	Query: "KU 14905" ; Times: 2
+	Query: "Zapus kansas" ; Times: 1
+	Query: "astroblepus" ; Times: 3
+	Query: "fishes" ; Times: 1
+	Query: "Synbranchidae" ; Times: 5
+	Query: "Potamotrygon" ; Times: 1
+	Query: "country:"Panama" genus:Astyanax" ; Times: 1
+	Query: "percina nigrofasciata type:specimen institutioncode:ku" ; Times: 1
+	Query: "crystallaria asprella" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 1
+	Query: "Poecilia sphenops" ; Times: 3
+	Query: "mappable:1 distance(location,geopoint(34.17431693701001,-119.5535659790039))<6758" ; Times: 1
+	Query: "Serranus atrobranchus" ; Times: 1
+	Query: "KU 3318" ; Times: 2
+	Query: "coryphopterus" ; Times: 1
+	Query: "Mustelus" ; Times: 1
+	Query: "coryphopterus type:specimen mappable:1" ; Times: 1
+	Query: "megalotis arkansas" ; Times: 1
+	Query: "Pteronotropis hubbsi" ; Times: 4
+	Query: "stateprovince:"Mississippi" specificepithet:olivaceus genus:Fundulus" ; Times: 1
+	Query: "cuchia" ; Times: 2
+	Query: "KU 13818" ; Times: 2
+	Query: "arenatus" ; Times: 1
+	Query: "university of kansas" ; Times: 1
+	Query: "institutioncode:ku" ; Times: 1
+	Query: "hypophthalmichthys nobilis" ; Times: 1
+	Query: "conejo" ; Times: 2
+	Query: "Bryconamericus" ; Times: 1
+	Query: "Porichthys notatus" ; Times: 1
+	Query: "KU 3297" ; Times: 2
+	Query: ""KUI" institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1679 download events in this period)
+Total number of records downloaded: 1 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Zacatecas" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 221
+Total number of records retrieved from searches: 1949
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 8273
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 221
+Total number of records retrieved from searches: 1949
+Number of download events that retrieved data from the resource: 49
+Total number of records downloaded: 12452
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

@@ -1,0 +1,112 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 148
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-03 ; Times: 4
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-10 ; Times: 2
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 3
+	Date: 2015-02-14 ; Times: 2
+	Date: 2015-02-15 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-20 ; Times: 6
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 21677" ; Times: 2
+	Query: "fundulus parvipinnis" ; Times: 1
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "type:specimen catalognumber:28050 institutioncode:KU" ; Times: 1
+	Query: "O Marsh" ; Times: 1
+	Query: "KU 24347" ; Times: 1
+	Query: "Candor stateprovince:"New York"" ; Times: 2
+	Query: "Rio Saloya" ; Times: 2
+	Query: "KU 29852" ; Times: 1
+	Query: "Lepidosiren" ; Times: 2
+	Query: "Anguilla rostrata mexico" ; Times: 3
+	Query: "KU 6662" ; Times: 2
+	Query: "catalognumber:21655 institutioncode:ku" ; Times: 2
+	Query: "specificepithet:atherinoides genus:Notropis year <= 2015" ; Times: 1
+	Query: "Mclean Illinois herpetology" ; Times: 3
+	Query: "frank chapman" ; Times: 1
+	Query: "KU 10003" ; Times: 1
+	Query: "lepidosiren" ; Times: 1
+	Query: "country:"nicaragua"" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen (Mexico) year >= 1980 year <= 2014" ; Times: 1
+	Query: "(crete)" ; Times: 1
+	Query: "county:"Marshall" stateprovince:"Kansas" year >= 1960 year <= 2015" ; Times: 1
+	Query: "nannostomus" ; Times: 1
+	Query: "specificepithet:sp genus:bryconamericus" ; Times: 2
+	Query: "muhlenberg county kentucky" ; Times: 2
+	Query: "danube river" ; Times: 1
+	Query: "heterodon wisconsin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 326 download events in this period)
+Total number of records downloaded: 1777 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1777
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Peru"" ; Times: 1
+	Query: "specificepithet:fisheri" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Bastrop county" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 509
+Total number of records retrieved from searches: 4561
+Number of download events that retrieved data from the resource: 12
+Total number of records downloaded: 1903
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 558
+Total number of records retrieved from searches: 4991
+Number of download events that retrieved data from the resource: 111
+Total number of records downloaded: 19388
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

@@ -1,0 +1,131 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 218
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 9
+	Country: Denmark ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Spain ; Times: 2
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 5
+	Date: 2015-05-07 ; Times: 2
+	Date: 2015-05-08 ; Times: 5
+	Date: 2015-05-11 ; Times: 3
+	Date: 2015-05-12 ; Times: 6
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 7
+	Date: 2015-05-21 ; Times: 3
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-26 ; Times: 5
+	Date: 2015-05-27 ; Times: 7
+	Date: 2015-05-28 ; Times: 2
+	Date: 2015-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"coahoma" stateprovince:"Mississippi"" ; Times: 1
+	Query: "erimystax cahni" ; Times: 1
+	Query: "cottus bairdii idaho" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "Etheostoma caeruleum" ; Times: 1
+	Query: "narcine brasiliensis" ; Times: 3
+	Query: "Percilia gillissi country:"chile" mappable:1" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 1
+	Query: "catalognumber:19410 institutioncode:KU" ; Times: 1
+	Query: "cottus beldingii" ; Times: 1
+	Query: "catalognumber:28793 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "erimystax" ; Times: 2
+	Query: "campostoma" ; Times: 1
+	Query: "catalognumber:10667 institutioncode:KU" ; Times: 1
+	Query: "RMB 1785" ; Times: 2
+	Query: "KU 25127" ; Times: 2
+	Query: "county:"allen" stateprovince:"kentucky" genus:etheostoma" ; Times: 1
+	Query: "Stenotomus chrysops" ; Times: 1
+	Query: "Chrysochloris" ; Times: 1
+	Query: "Ammodytidae nhm" ; Times: 3
+	Query: "hoplias microlepis" ; Times: 2
+	Query: "canthigaster janthinoptera" ; Times: 4
+	Query: "cottus bairdii Idaho" ; Times: 1
+	Query: "catalognumber:12226 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:3226 institutioncode:ku" ; Times: 2
+	Query: "Trichomycterus rivulatus" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "county:"warren" stateprovince:"tennessee" genus:etheostoma" ; Times: 1
+	Query: "catalognumber:23213 institutioncode:KU" ; Times: 1
+	Query: "county:"Tunica" stateprovince:"Mississippi"" ; Times: 1
+	Query: "Orestias laucaensis" ; Times: 1
+	Query: "Orestias chungarensis" ; Times: 2
+	Query: "Rhoadsia altipinna" ; Times: 1
+	Query: "catalognumber:12152 institutioncode:KU" ; Times: 1
+	Query: "W. B. Richardson (Nicaragua)" ; Times: 1
+	Query: "Orestias parinacotensis" ; Times: 2
+	Query: "catalognumber:28044 institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 976 download events in this period)
+Total number of records downloaded: 879 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 875
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pelamis" ; Times: 1
+	Query: "W. B. Richardson" ; Times: 1
+	Query: "Orestias chungarensis" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Etheostoma caeruleum" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "narcine brasiliensis" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Percilia gillissi country:"chile" mappable:1" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 581
+Total number of records retrieved from searches: 4884
+Number of download events that retrieved data from the resource: 28
+Total number of records downloaded: 3271
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 630
+Total number of records retrieved from searches: 5314
+Number of download events that retrieved data from the resource: 127
+Total number of records downloaded: 20756
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

@@ -1,0 +1,215 @@
+Report for Institution Code KU, Resource KUI
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 1466
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 8
+	Country: Germany ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Netherlands ; Times: 2
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 89
+	Country: Unknown ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 4
+	Date: 2015-08-02 ; Times: 5
+	Date: 2015-08-03 ; Times: 2
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-05 ; Times: 10
+	Date: 2015-08-06 ; Times: 9
+	Date: 2015-08-08 ; Times: 4
+	Date: 2015-08-09 ; Times: 11
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-11 ; Times: 4
+	Date: 2015-08-12 ; Times: 12
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-14 ; Times: 1
+	Date: 2015-08-15 ; Times: 2
+	Date: 2015-08-17 ; Times: 1
+	Date: 2015-08-18 ; Times: 13
+	Date: 2015-08-19 ; Times: 2
+	Date: 2015-08-20 ; Times: 2
+	Date: 2015-08-21 ; Times: 10
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-23 ; Times: 2
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-27 ; Times: 8
+	Date: 2015-08-28 ; Times: 11
+	Date: 2015-08-29 ; Times: 12
+	Date: 2015-08-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 15
+	Query: "type:specimen stateprovince:"Kansas" (fish) hastypestatus:1" ; Times: 1
+	Query: "catalognumber:21173 institutioncode:KU" ; Times: 2
+	Query: "stateprovince:"Virginia" specificepithet:gilberti genus:Noturus" ; Times: 2
+	Query: "stateprovince:"north carolina" country:"united states" specificepithet:carolinae genus:cottus" ; Times: 1
+	Query: "KU 31446" ; Times: 1
+	Query: "country:"Mexico" specificepithet:cyanellus genus:Lepomis" ; Times: 1
+	Query: "KU 6669" ; Times: 1
+	Query: "Hemitremia flammea alabama" ; Times: 2
+	Query: "Semaprochilodus insignis" ; Times: 2
+	Query: "25393" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "Hybopsis lineapunctata Alabama" ; Times: 12
+	Query: "recordedby:duellman institutioncode:ku" ; Times: 1
+	Query: "(torreya)" ; Times: 1
+	Query: "Crystallaria asprella Alabama" ; Times: 1
+	Query: "catalognumber:2009 institutioncode:KU" ; Times: 1
+	Query: "34677" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:tetranema genus:Macrhybopsis" ; Times: 1
+	Query: "country:"Mexico" specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "Ichthyomyzon bdellium" ; Times: 1
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "catalognumber:14803 institutioncode:KU" ; Times: 2
+	Query: "13148" ; Times: 1
+	Query: "Lythrurus lirus" ; Times: 10
+	Query: "Xenicus" ; Times: 1
+	Query: "4380" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:carolinae genus:cottus" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:placitus genus:Hybognathus" ; Times: 2
+	Query: "ku 3804" ; Times: 1
+	Query: "KU 31897" ; Times: 1
+	Query: "fish balleza chihuahua" ; Times: 1
+	Query: "country:"Mexico" genus:Lepomis" ; Times: 1
+	Query: "ku 27169" ; Times: 2
+	Query: "country:"Mexico" specificepithet:affinis genus:Gambusia" ; Times: 2
+	Query: "country:"Mexico" genus:Gambusia" ; Times: 2
+	Query: "KU 9952" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "country:"Mexico" specificepithet:punctatus genus:Ictalurus" ; Times: 1
+	Query: "ku 27149" ; Times: 1
+	Query: "heterodon stateprovince:"New York"" ; Times: 1
+	Query: "KU 31898" ; Times: 1
+	Query: "fish urique chihuahua" ; Times: 4
+	Query: "Luxilus zonistius Alabama" ; Times: 2
+	Query: "fish bocoyna chihuahua" ; Times: 1
+	Query: "country:"Mexico" specificepithet:melas genus:Ameiurus" ; Times: 1
+	Query: "catalognumber:31491" ; Times: 1
+	Query: "KU 31455" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "Notropis volucellus" ; Times: 3
+	Query: "19463" ; Times: 1
+	Query: "country:"Mexico" specificepithet:petenense genus:Dorosoma" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "Notropis uranoscopus" ; Times: 1
+	Query: "27167" ; Times: 1
+	Query: "encheliophis gracilis" ; Times: 1
+	Query: "catalognumber:6316 institutioncode:KU" ; Times: 1
+	Query: "type:specimen stateprovince:"Kansas" hastypestatus:1" ; Times: 1
+	Query: "catalognumber:7425 institutioncode:KU" ; Times: 1
+	Query: "Cyprinella gibbsi alabama" ; Times: 2
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "fish batopilas chihuahua" ; Times: 4
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "29475" ; Times: 1
+	Query: "cornutus" ; Times: 1
+	Query: "specificepithet:humilis" ; Times: 1
+	Query: "KU 5851" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"united states" specificepithet:carolinae genus:cottus institutioncode:KU" ; Times: 1
+	Query: "middleboro" ; Times: 1
+	Query: "Phoxinus tennesseensis" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "crossocheilus latius" ; Times: 3
+	Query: "alexandar" ; Times: 1
+	Query: "KU 9469" ; Times: 1
+	Query: "country:"Panama"" ; Times: 1
+	Query: "ku 27150" ; Times: 2
+	Query: "country:"Mexico" specificepithet:macrochirus genus:Lepomis" ; Times: 1
+	Query: "KU 3577" ; Times: 1
+	Query: "KU 8014" ; Times: 1
+	Query: "KU 14803" ; Times: 2
+	Query: "Notropis uranoscopus Alabama" ; Times: 2
+	Query: "27999" ; Times: 1
+	Query: "gayi type:specimen institutioncode:KU" ; Times: 1
+	Query: "Flamingo Bay" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1138 download events in this period)
+Total number of records downloaded: 2231 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2000
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 3
+	Date: 2015-08-17 ; Times: 8
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mykiss" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "country:"Mexico" class:Actinopterygii" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "venezuela" ; Times: 2
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "tabasco" ; Times: 2
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Crystallaria asprella Alabama" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 145
+Total number of records retrieved from searches: 1466
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 2231
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 145
+Total number of records retrieved from searches: 1466
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 2231
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

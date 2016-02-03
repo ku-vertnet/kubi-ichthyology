@@ -1,0 +1,158 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 684
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 72
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-18 ; Times: 3
+	Date: 2015-11-30 ; Times: 3
+	Date: 2015-11-03 ; Times: 3
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-12 ; Times: 5
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-17 ; Times: 5
+	Date: 2015-11-16 ; Times: 7
+	Date: 2015-11-06 ; Times: 12
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 3
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-25 ; Times: 17
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-20 ; Times: 6
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-22 ; Times: 6
+	Date: 2015-11-05 ; Times: 2
+	Date: 2015-11-24 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "pulcher" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "catalognumber:20350 institutioncode:KU" ; Times: 1
+	Query: "23206" ; Times: 1
+	Query: "22626" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "30141" ; Times: 1
+	Query: "28862" ; Times: 1
+	Query: "ummz" ; Times: 1
+	Query: "percina maculata" ; Times: 1
+	Query: "M-14263" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "Orconectes" ; Times: 1
+	Query: "Stereolepis" ; Times: 1
+	Query: "recordedby:E. E. Good" ; Times: 1
+	Query: "KU 19169" ; Times: 1
+	Query: "genus:Carcharhinus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus continent:North America" ; Times: 1
+	Query: "Lepidosiren" ; Times: 1
+	Query: "stateprovince:&#34;puebla&#34;" ; Times: 1
+	Query: "28850" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "ptereleotris microlepis" ; Times: 1
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Guatemala" ; Times: 1
+	Query: "catalognumber:24451 institutioncode:KU" ; Times: 2
+	Query: "wolf" ; Times: 1
+	Query: "haemulidae" ; Times: 1
+	Query: "KU 11713" ; Times: 2
+	Query: "28884" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "ku 35059" ; Times: 1
+	Query: "ku 35058" ; Times: 1
+	Query: "fundulus grandis" ; Times: 3
+	Query: "&#34;Big Creek&#34;" ; Times: 1
+	Query: "8303 fasciatus" ; Times: 1
+	Query: "Cottus asperrimus" ; Times: 10
+	Query: "KU 9939" ; Times: 1
+	Query: "TNHC" ; Times: 1
+	Query: "cuba" ; Times: 1
+	Query: "33465" ; Times: 2
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "lutjanus" ; Times: 1
+	Query: "fish 1890" ; Times: 1
+	Query: "KU 30742" ; Times: 1
+	Query: "33462" ; Times: 2
+	Query: "pike county missouri" ; Times: 2
+	Query: "cyprinus carpio" ; Times: 2
+	Query: "28860" ; Times: 1
+	Query: "Nocomis biguttatus" ; Times: 1
+	Query: "Guadalupe Island" ; Times: 2
+	Query: "locality:Pine Hills stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Tetrapturus" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "rachycentron ku" ; Times: 1
+	Query: "26280" ; Times: 1
+	Query: "Nocomis biguttatus Wyoming" ; Times: 1
+	Query: "catalognumber:1 institutioncode:KU" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "KU 9779" ; Times: 1
+	Query: "schistura" ; Times: 1
+	Query: "KU 11678" ; Times: 1
+	Query: "fish locality:rock creek stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Stereolepis gigas" ; Times: 2
+	Query: "stateprovince:&#34;puebla&#34; mappable:1" ; Times: 1
+	Query: "33588" ; Times: 1
+	Query: "19118" ; Times: 1
+	Query: "fasciatus type:specimen institutioncode:KU" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "ku 33585" ; Times: 1
+	Query: "etheostoma stigmaeum arkansas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 751 download events in this period)
+Total number of records downloaded: 1148
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "madagascar" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "etheostoma spectabile" ; Times: 1
+	Query: "distance(location,geopoint(18.224133787422407,-66.59088134765625))&lt;75606" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.

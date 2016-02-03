@@ -1,0 +1,128 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 863
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 62
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-03 ; Times: 3
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 8
+	Date: 2015-12-05 ; Times: 3
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-17 ; Times: 9
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-26 ; Times: 4
+	Date: 2015-12-29 ; Times: 18
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 5
+	Date: 2015-12-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Centrarchidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Rhina" ; Times: 1
+	Query: "pristis pectinata" ; Times: 2
+	Query: "noturus placidus" ; Times: 2
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "mus massachusetts" ; Times: 1
+	Query: "catalognumber:6653 institutioncode:KU" ; Times: 2
+	Query: "Ammocrypta clara" ; Times: 4
+	Query: "Typhlichthys kentucky" ; Times: 5
+	Query: "apodus" ; Times: 1
+	Query: "Cyprinella whipplei (Virginia)" ; Times: 1
+	Query: "sargocentron spiniferum" ; Times: 4
+	Query: "Cuba" ; Times: 1
+	Query: "typhlichthys edmonson" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:w.g." ; Times: 1
+	Query: "catalognumber:15912 institutioncode:KU" ; Times: 2
+	Query: "marmoreus" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "catalognumber:9170 institutioncode:KU" ; Times: 1
+	Query: "torpedo" ; Times: 2
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "typhlichthys kentucky" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "Erimonax monachus" ; Times: 1
+	Query: "catalognumber:5323 institutioncode:KU" ; Times: 1
+	Query: "iowa" ; Times: 2
+	Query: "cichlidae" ; Times: 1
+	Query: "Cyprinella whipplei" ; Times: 3
+	Query: "family:Ictaluridae country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:15889 institutioncode:KU" ; Times: 1
+	Query: "colima year &gt;= 1959 year &lt;= 1959" ; Times: 1
+	Query: "catalognumber:9160 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "Notropis atherinoides (Virginia)" ; Times: 1
+	Query: "catalognumber:9126 institutioncode:KU" ; Times: 4
+	Query: "catalognumber:5285 institutioncode:KU" ; Times: 1
+	Query: "rhinichthys atratulus" ; Times: 1
+	Query: "Erimystax cahni" ; Times: 1
+	Query: "catalognumber:6642 institutioncode:KU" ; Times: 2
+	Query: "12522" ; Times: 2
+	Query: "catalognumber:9167 institutioncode:KU" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "Mormyrus" ; Times: 1
+	Query: "Williams 1955" ; Times: 1
+	Query: "Notropis atherinoides" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:5529 institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 889 download events in this period)
+Total number of records downloaded: 3305
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "rio grande do sul" ; Times: 1
+
+
+End of report.

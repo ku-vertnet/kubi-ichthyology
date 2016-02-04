@@ -1,0 +1,217 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 1578
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 126
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-06 ; Times: 6
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 7
+	Date: 2016-01-27 ; Times: 4
+	Date: 2016-01-02 ; Times: 6
+	Date: 2016-01-03 ; Times: 32
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-09 ; Times: 5
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-05 ; Times: 9
+	Date: 2016-01-20 ; Times: 5
+	Date: 2016-01-19 ; Times: 17
+	Date: 2016-01-13 ; Times: 3
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-11 ; Times: 8
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-17 ; Times: 3
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-15 ; Times: 4
+	Date: 2016-01-14 ; Times: 5
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-24 ; Times: 2
+	Date: 2016-01-25 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "ku 28089" ; Times: 1
+	Query: "county:&#34;Franklin&#34; stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "KU 36318" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 6
+	Query: "Cyprinella venusta" ; Times: 2
+	Query: "anomalum data" ; Times: 1
+	Query: "Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "gobiomorus maculatus" ; Times: 2
+	Query: "family:Notopteridae" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Dasyatidae" ; Times: 1
+	Query: "EHT" ; Times: 1
+	Query: "Lake Eucha" ; Times: 2
+	Query: "Big Sugar Creek" ; Times: 1
+	Query: "polypterus" ; Times: 1
+	Query: "usnm 23866" ; Times: 1
+	Query: "etheostoma jessiae" ; Times: 1
+	Query: "ku 19868" ; Times: 1
+	Query: "Kansas 24010" ; Times: 1
+	Query: "percina nasuta" ; Times: 4
+	Query: "family:Hiodontidae" ; Times: 1
+	Query: "family:Rivulidae" ; Times: 1
+	Query: "dinosaur" ; Times: 1
+	Query: "family:Amblyopsidae" ; Times: 1
+	Query: "130422 ku" ; Times: 1
+	Query: "family:Gasterosteidae country:&#34;United States&#34;" ; Times: 1
+	Query: "ku 1703" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "specificepithet:ornatissimus institutioncode:KU" ; Times: 1
+	Query: "Etowah County type:specimen year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "Percina macrocephala" ; Times: 1
+	Query: "Etheostoma zonale" ; Times: 1
+	Query: "specificepithet:topeka genus:Notropis stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "family:Cichlidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Loricariidae United States" ; Times: 2
+	Query: "ku 28150" ; Times: 1
+	Query: "family:Characidae" ; Times: 1
+	Query: "family:Centrarchidae" ; Times: 1
+	Query: "family:Amblyopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+	Query: "ku 5572" ; Times: 1
+	Query: "family:Cyprinodontidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Noturus flavus" ; Times: 1
+	Query: "dormitator latifrons" ; Times: 1
+	Query: "Mills P" ; Times: 1
+	Query: "Notropis photogenis" ; Times: 1
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 2
+	Query: "Percina sciera type:specimen" ; Times: 1
+	Query: "ku 5279" ; Times: 1
+	Query: "Gobiomorus dormitor" ; Times: 2
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "etheostoma osburni" ; Times: 2
+	Query: "family:Esocidae" ; Times: 1
+	Query: "Cichlidae" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 2
+	Query: "family:Eleotridae country:&#34;United States&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 3
+	Query: "Mayran" ; Times: 2
+	Query: "UMMZ 191695" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "family:Catostomidae" ; Times: 1
+	Query: "family:Syngnathidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Roaring River stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "cercamia" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 2
+	Query: "catalognumber:10975 institutioncode:KU" ; Times: 1
+	Query: "4.5 mi. N Bergheim" ; Times: 1
+	Query: "catalognumber:8850 institutioncode:KU" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "county:&#34;Franklin&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Colombia" ; Times: 1
+	Query: "velifer" ; Times: 1
+	Query: "ku 24129" ; Times: 1
+	Query: "etheostoma vulneratum" ; Times: 1
+	Query: "marion missouri" ; Times: 1
+	Query: "family:Lotidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lampetra appendix" ; Times: 1
+	Query: "Thoburnia hamiltoni" ; Times: 3
+	Query: "Pimephales notatus" ; Times: 1
+	Query: "Noturus eleutherus" ; Times: 1
+	Query: "ku 19761" ; Times: 2
+	Query: "country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 2
+	Query: "Kansas 24009" ; Times: 1
+	Query: "ku 5552" ; Times: 1
+	Query: "family:Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Petromyzontidae" ; Times: 1
+	Query: "family:Salmonidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cobitidae" ; Times: 1
+	Query: "morphological data" ; Times: 1
+	Query: "ku 16922" ; Times: 1
+	Query: "Lepidomeda" ; Times: 1
+	Query: "Lepomis macrochirus" ; Times: 6
+	Query: "genus:Rivulus" ; Times: 1
+	Query: "Etowah County" ; Times: 1
+	Query: "genus:Microgadus country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:19248 institutioncode:KU" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 2
+	Query: "Big Sugar Creek stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Etheostoma stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "etheostoma stigmaeum lee county" ; Times: 1
+	Query: "Carpiodes carpio" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 507 download events in this period)
+Total number of records downloaded: 27739
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-05 ; Times: 11
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 15
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 2
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "family:Achiridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "family:Amblyopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "country:&#34;Mongolia&#34; institutioncode:KU" ; Times: 1
+	Query: "KU presa don martin" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.

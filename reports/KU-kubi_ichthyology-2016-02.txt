@@ -1,0 +1,156 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 688
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Czech Republic ; Times: 7
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 55
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-06 ; Times: 7
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-08 ; Times: 17
+	Date: 2016-02-05 ; Times: 4
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-04 ; Times: 6
+	Date: 2016-02-23 ; Times: 10
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 5
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 4
+	Date: 2016-02-16 ; Times: 8
+	Date: 2016-02-03 ; Times: 3
+	Date: 2016-02-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Etheostoma obeyense" ; Times: 3
+	Query: "romania" ; Times: 1
+	Query: "Istiophoridae" ; Times: 1
+	Query: "Carcharhinidae" ; Times: 1
+	Query: "recordedby:scott institutioncode:KU" ; Times: 1
+	Query: "Chlorurus sordidus" ; Times: 1
+	Query: "Ku 41047" ; Times: 1
+	Query: "Stereolepis gigas" ; Times: 1
+	Query: "Istiophoridae type:specimen" ; Times: 5
+	Query: "louisiana union" ; Times: 4
+	Query: "30149" ; Times: 1
+	Query: "Embiotoca lateralis" ; Times: 1
+	Query: "Hexagrammos lagocephalus" ; Times: 1
+	Query: "country:&#34;Portugal&#34;" ; Times: 1
+	Query: "Sebastes rosaceus" ; Times: 1
+	Query: "Hybopsis lineapunctata Alabama" ; Times: 1
+	Query: "type:specimen catalognumber:13478 institutioncode:KU" ; Times: 1
+	Query: "amia calva" ; Times: 5
+	Query: "Jordania zonope" ; Times: 1
+	Query: "darter fish" ; Times: 1
+	Query: "Iowa" ; Times: 1
+	Query: "Chirolophis nugator" ; Times: 1
+	Query: "class:actinopterygii continent:south america country:Guyana" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "tnhc" ; Times: 1
+	Query: "Sebastes chrysomelas" ; Times: 1
+	Query: "bucher" ; Times: 2
+	Query: "forbesichthys agassizii illinois" ; Times: 1
+	Query: "Rhinichthys" ; Times: 1
+	Query: "darter" ; Times: 1
+	Query: "amblyopsis" ; Times: 1
+	Query: "typhlichthys kentucky" ; Times: 2
+	Query: "Enophrys bison" ; Times: 1
+	Query: "CARCHARHINUS ACRONOTUS" ; Times: 1
+	Query: "class:actinopterygii continent:south america" ; Times: 1
+	Query: "dragonfly" ; Times: 1
+	Query: "Atractoscion nobilis" ; Times: 1
+	Query: "country:&#34;america&#34;" ; Times: 1
+	Query: "cichlidae" ; Times: 2
+	Query: "Sebastes maliger" ; Times: 1
+	Query: "Hyperprosopon ellipticum" ; Times: 1
+	Query: "cercamia" ; Times: 1
+	Query: "KU 217430" ; Times: 2
+	Query: "Mola mola" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "amblyopsis kentucky" ; Times: 2
+	Query: "33755" ; Times: 1
+	Query: "oregon state university" ; Times: 1
+	Query: "Acipenseridae" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "catalognumber:41372 collectioncode:KUI institutioncode:KU" ; Times: 1
+	Query: "catalognumber:1 institutioncode:KU" ; Times: 1
+	Query: "Cymatogaster aggregata" ; Times: 1
+	Query: "cercamia cas" ; Times: 5
+	Query: "Cichlidae" ; Times: 1
+	Query: "Sebastes miniatus" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "apogon imberbis" ; Times: 1
+	Query: "Squatina californica" ; Times: 1
+	Query: "Colombia" ; Times: 2
+	Query: "serrasalmus" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 4
+	Query: "Tetrapturus belone" ; Times: 1
+	Query: "county:&#34;Dewey&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Rhacochilus toxotes" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "cercamia eremia cas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 512 download events in this period)
+Total number of records downloaded: 2001
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "county:&#34;Dewey&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "class:actinopterygii mappable:1 stateprovince:Wyoming" ; Times: 1
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "class:actinopterygii mappable:1 stateprovince:Washington" ; Times: 2
+	Query: "continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Tetrapturus belone type:specimen" ; Times: 1
+	Query: "class:actinopterygii mappable:1 stateprovince:Idaho" ; Times: 2
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "sculpin" ; Times: 1
+
+
+End of report.

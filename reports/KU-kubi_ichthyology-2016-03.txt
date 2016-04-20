@@ -1,0 +1,78 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 547
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-08 ; Times: 9
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 5
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 4
+	Query: "rhabdamia" ; Times: 2
+	Query: "(Colombia)" ; Times: 1
+	Query: "Urobatis halleri" ; Times: 1
+	Query: "Amphistichus argenteus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Antimora" ; Times: 1
+	Query: "locality:Bella Vista country:&#34;Argentina&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "Forbesichthys agassizii" ; Times: 1
+	Query: "gregg" ; Times: 2
+	Query: "(yehuin)" ; Times: 1
+	Query: "locality:Tafi country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Nocomis biguttatus" ; Times: 3
+	Query: "Xenistius californiensis" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "dasycottus setiger" ; Times: 1
+	Query: "enophrys bison" ; Times: 1
+	Query: "puebla" ; Times: 1
+	Query: "Noturus gilberti (Virginia)" ; Times: 1
+	Query: "hippoglossoides elassodon" ; Times: 1
+	Query: "locality:Bella Vista stateprovince:&#34;Corrientes&#34; country:&#34;Argentina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 230 download events in this period)
+Total number of records downloaded: 98
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;Guyana&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+
+
+End of report.

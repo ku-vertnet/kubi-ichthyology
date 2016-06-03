@@ -1,0 +1,107 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 1060
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 49
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-11 ; Times: 2
+	Date: 2016-05-14 ; Times: 2
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-06 ; Times: 8
+	Date: 2016-05-07 ; Times: 4
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-25 ; Times: 5
+	Date: 2016-05-22 ; Times: 4
+	Date: 2016-05-23 ; Times: 10
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-31 ; Times: 26
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "university of minnesota" ; Times: 2
+	Query: "noturus placidus" ; Times: 2
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "specificepithet:mazatlanus genus:Achirus" ; Times: 3
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 5
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 8
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 2
+	Query: "specificepithet:californica genus:Squatina" ; Times: 3
+	Query: "family:Belonidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "KU 6745" ; Times: 2
+	Query: "specificepithet:productus genus:Rhinobatos" ; Times: 3
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "family:Characidae" ; Times: 3
+	Query: "specificepithet:henlei genus:Mustelus" ; Times: 3
+	Query: "class:Actinopterygii country:&#34;Belize&#34;" ; Times: 1
+	Query: "family:Profundulidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "catalognumber:24559 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 1
+	Query: "Atlantic Forest" ; Times: 1
+	Query: "hypopomus artedi" ; Times: 3
+	Query: "cyprinodon" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 2
+	Query: "rhinobatos productus" ; Times: 3
+	Query: "gasterosteus" ; Times: 1
+	Query: "family:Lebiasinidae class:Actinopterygii country:&#34;Panama&#34;" ; Times: 1
+	Query: "catostomus santaanae" ; Times: 2
+	Query: "family:Eleotridae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "specificepithet:bairdii stateprovince:&#34;michigan&#34; year &gt;= 1830" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "specificepithet:gilberti genus:Citharichthys" ; Times: 3
+	Query: "catalognumber:19927 institutioncode:KU" ; Times: 1
+	Query: "Colombia" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 327 download events in this period)
+Total number of records downloaded: 531
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Japan ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 5
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "specificepithet:californicus genus:Paralichthys" ; Times: 3
+	Query: "bird" ; Times: 1
+
+
+End of report.

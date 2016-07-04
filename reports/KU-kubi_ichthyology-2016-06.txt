@@ -1,0 +1,210 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 574
+Number of records retrieved in searches: 16654
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 511
+	Country: Australia ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 40
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 436
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-21 ; Times: 6
+	Date: 2016-06-20 ; Times: 9
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-07 ; Times: 28
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 7
+	Date: 2016-06-03 ; Times: 5
+	Date: 2016-06-02 ; Times: 15
+	Date: 2016-06-09 ; Times: 5
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-16 ; Times: 12
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-15 ; Times: 7
+	Date: 2016-06-13 ; Times: 14
+	Date: 2016-06-10 ; Times: 4
+	Date: 2016-06-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:encrasicolus genus:Engraulis" ; Times: 3
+	Query: "30753" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 6
+	Query: "bison bison   " ; Times: 6
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 5
+	Query: "26378" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "POLYDACTYLUS OCTONEMUS" ; Times: 4
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "Guatemala" ; Times: 1
+	Query: "catalognumber:29342 institutioncode:KU" ; Times: 1
+	Query: "bubalus" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "Andalusia" ; Times: 1
+	Query: "specificepithet:macracanthus genus:Pomadasys" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "specificepithet:averruncus genus:Kathetostoma" ; Times: 1
+	Query: "UMMZ" ; Times: 3
+	Query: "catalognumber:29344 institutioncode:KU" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "KU 18786" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "county:&#34;murray&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "specificepithet:delicatissima genus:Anchoa" ; Times: 2
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 2
+	Query: "ANSP prochilodus" ; Times: 2
+	Query: "noturus placidus" ; Times: 6
+	Query: "prochilodus" ; Times: 2
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 5
+	Query: "ummz" ; Times: 7
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "panama" ; Times: 1
+	Query: "specificepithet:cruentatus genus:Heteropriacanthus" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "flavescens iowa" ; Times: 1
+	Query: "genus:Mola" ; Times: 2
+	Query: "14299" ; Times: 1
+	Query: "fundulus grandis" ; Times: 2
+	Query: "specificepithet:cephalus genus:Mugil continent:North America year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "pseudocheilinus tetrataenia" ; Times: 1
+	Query: "8516" ; Times: 1
+	Query: "polypteriformes" ; Times: 3
+	Query: "11899" ; Times: 3
+	Query: "rhinichthys" ; Times: 1
+	Query: "chihuahua (fish)" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "catalognumber:33838 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "catalognumber:9960 institutioncode:KU" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 166
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "salmonidae" ; Times: 1
+	Query: "gbifdatasetid:8f79c802-a58c-447f-99aa-1d6a0790825a" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "18771" ; Times: 1
+	Query: "KU 3804" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 1
+	Query: "34844" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "Walter Miller Oaxaca" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 9
+	Query: "specificepithet:elongatus genus:Menticirrhus" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 72
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 4
+	Query: "38590" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "nebulosus" ; Times: 1
+	Query: "specificepithet:pinnimaculatus genus:Bagre" ; Times: 2
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "chile" ; Times: 1
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "neoclinus blanchardi" ; Times: 1
+	Query: "specificepithet:kessleri genus:Notarius" ; Times: 4
+	Query: "Colombia" ; Times: 1
+	Query: "country:&#34;Honduras&#34; institutioncode:KU" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "india" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 23
+	Query: "lepisosteidae" ; Times: 20
+	Query: "specificepithet:californica genus:Squatina" ; Times: 2
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 12
+	Query: "Walter Miller" ; Times: 2
+	Query: "distance(location,geopoint(45.483243508682214,-121.739501953125))&lt;27554.144526533193" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "Cooper AND Island AND California" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "stateprovince:&#34;Iowa&#34;" ; Times: 2
+	Query: "34780" ; Times: 1
+	Query: "Puebla" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 7
+	Query: "bison university of kansas" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 18
+	Query: "KU 25087" ; Times: 2
+	Query: "Percina" ; Times: 1
+	Query: "institutioncode: KU 13537" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 8
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "yucatan" ; Times: 1
+	Query: "specificepithet:compressa genus:Anchoa" ; Times: 3
+	Query: "Acipenser" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1052 download events in this period)
+Total number of records downloaded: 246
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "bison university of kansas" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "chihuahua (fish)" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.

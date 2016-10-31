@@ -1,0 +1,145 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 1282
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 87
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-02 ; Times: 2
+	Date: 2016-09-03 ; Times: 2
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-13 ; Times: 7
+	Date: 2016-09-12 ; Times: 3
+	Date: 2016-09-11 ; Times: 3
+	Date: 2016-09-10 ; Times: 19
+	Date: 2016-09-08 ; Times: 27
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-14 ; Times: 7
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-05 ; Times: 28
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-06 ; Times: 5
+	Date: 2016-09-24 ; Times: 2
+	Date: 2016-09-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "21963" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "mykiss" ; Times: 1
+	Query: "institutioncode: KU 24223" ; Times: 1
+	Query: "institutioncode:KU 30482" ; Times: 4
+	Query: "institutioncode: KU 30510" ; Times: 1
+	Query: "specificepithet:atricauda genus:Symphurus" ; Times: 1
+	Query: "specificepithet:petenense genus:Dorosoma" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:formosa genus:Heterandria stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "institutioncode: KU 24344" ; Times: 1
+	Query: "specificepithet:politus genus:Seriphus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "institutioncode: KU 22539" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "seriola" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "institutioncode: KU 24220" ; Times: 1
+	Query: "institutioncode: KU 24318" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "ictalurus" ; Times: 8
+	Query: "institutioncode: KU 26345" ; Times: 1
+	Query: "institutioncode: KU 24308" ; Times: 2
+	Query: "specificepithet:pinnatibarbatus genus:Cheilopogon" ; Times: 1
+	Query: "Zacatecas" ; Times: 1
+	Query: "specificepithet:orqueta genus:Chloroscombrus" ; Times: 1
+	Query: "panama" ; Times: 2
+	Query: "institutioncode:KU 30481" ; Times: 2
+	Query: "institutioncode: KU 26305" ; Times: 1
+	Query: "institutioncode: KU 26304" ; Times: 1
+	Query: "county:&#34;McLean&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 3
+	Query: "Guatemala" ; Times: 1
+	Query: "12359" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 4
+	Query: "institutioncode:KU 30502" ; Times: 1
+	Query: "tuxpan" ; Times: 1
+	Query: "hybognathus amarus" ; Times: 2
+	Query: "specificepithet:elongatus genus:Menticirrhus" ; Times: 1
+	Query: "institutioncode: KU 9585" ; Times: 1
+	Query: "institutioncode:KU 26381" ; Times: 2
+	Query: "specificepithet:dubius genus:Scarus" ; Times: 1
+	Query: "locality:tuxpan" ; Times: 1
+	Query: "institutioncode:KU 24341" ; Times: 2
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "institutioncode:KU 24260" ; Times: 2
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "institutioncode: KU 22541" ; Times: 1
+	Query: "institutioncode: KU 30525" ; Times: 1
+	Query: "ansp" ; Times: 1
+	Query: "institutioncode:KU 25199" ; Times: 2
+	Query: "13921" ; Times: 1
+	Query: "nebulosus" ; Times: 1
+	Query: "collectioncode:KUI institutioncode:KU" ; Times: 2
+	Query: "institutioncode: KU 5611" ; Times: 1
+	Query: "(moxostoma)" ; Times: 1
+	Query: "genus:moxostoma stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "institutioncode: KU 26349" ; Times: 1
+	Query: "noturus placidus" ; Times: 3
+	Query: "27582" ; Times: 1
+	Query: "25239" ; Times: 1
+	Query: "specificepithet:maculatus genus:Gobiomorus" ; Times: 1
+	Query: "institutioncode:KU 24244" ; Times: 2
+	Query: "institutioncode: KU 24322" ; Times: 1
+	Query: "institutioncode: KU 26354" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "institutioncode: KU 24347" ; Times: 1
+	Query: "institutioncode: KU 24380" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;New Hampshire&#34; continent:North America mappable:1" ; Times: 1
+	Query: "specificepithet:californiensis genus:Atherinopsis" ; Times: 1
+	Query: "country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "country:&#34;Cuba&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "specificepithet:nebulifer genus:Paralabrax" ; Times: 1
+	Query: "Pylodictis" ; Times: 1
+	Query: "institutioncode: KU 24310" ; Times: 1
+	Query: "institutioncode: KU 22540" ; Times: 1
+	Query: "russia" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 2
+	Query: "institutioncode:KU 24330" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 811 download events in this period)
+Total number of records downloaded: 75
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:formosa genus:Heterandria stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "thailand" ; Times: 2
+
+
+End of report.

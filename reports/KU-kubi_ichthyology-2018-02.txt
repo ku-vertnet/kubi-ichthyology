@@ -1,0 +1,356 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 415
+Number of records retrieved in searches: 3645
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 17
+	Country: United States ; Times: 348
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: Unknown ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 23
+	Date: 2018-02-03 ; Times: 5
+	Date: 2018-02-02 ; Times: 18
+	Date: 2018-02-01 ; Times: 7
+	Date: 2018-02-07 ; Times: 11
+	Date: 2018-02-06 ; Times: 62
+	Date: 2018-02-05 ; Times: 79
+	Date: 2018-02-21 ; Times: 15
+	Date: 2018-02-20 ; Times: 19
+	Date: 2018-02-23 ; Times: 12
+	Date: 2018-02-22 ; Times: 32
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 34
+	Date: 2018-02-26 ; Times: 12
+	Date: 2018-02-28 ; Times: 12
+	Date: 2018-02-14 ; Times: 29
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 4
+	Date: 2018-02-17 ; Times: 4
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-13 ; Times: 17
+	Date: 2018-02-19 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Acanthurus guttatus mappable:1" ; Times: 2
+	Query: "catalognumber:32774 institutioncode:KU" ; Times: 1
+	Query: "Rivulidae" ; Times: 8
+	Query: "catalognumber:28051 institutioncode:KU" ; Times: 1
+	Query: "Ku 217430" ; Times: 1
+	Query: "distance(location,geopoint(44.371166546,-93.6820334855))&lt;19398" ; Times: 4
+	Query: "ku 6623" ; Times: 1
+	Query: "catalognumber:32764 institutioncode:KU" ; Times: 1
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 3
+	Query: "Zebrasoma scopas" ; Times: 1
+	Query: "catalognumber:27864 institutioncode:KU" ; Times: 1
+	Query: "family:Cichlidae country:&#34;Belize&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:1276 institutioncode:KU" ; Times: 1
+	Query: "genus:Hybognathus locality:Big Sandy Creek county:&#34;Barber&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "catalognumber:32462 institutioncode:KU" ; Times: 1
+	Query: "scientificname:&#34;notropis girardi&#34;" ; Times: 1
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "27887 institutioncode:KU" ; Times: 2
+	Query: "distance(location,geopoint(43.779212493,-95.2178509615))&lt;17306" ; Times: 4
+	Query: "catalognumber:32761 institutioncode:KU" ; Times: 1
+	Query: "genus:NocomIS catalognumber:4813 institutioncode:KU" ; Times: 1
+	Query: "KU 24997" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "catalognumber:26709 institutioncode:KU" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "distance(location,geopoint(29.6964244368575,-93.8775603898847))&lt;3167" ; Times: 1
+	Query: "Zebrasoma xanthurum" ; Times: 1
+	Query: "catalognumber:32765 institutioncode:KU" ; Times: 1
+	Query: "KSTC" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "catalognumber:1273 institutioncode:KU" ; Times: 2
+	Query: "genus:Hybognathus locality:Salt Fork Arkansas River county:&#34;Comanche&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "catalognumber:23033 institutioncode:KU" ; Times: 1
+	Query: "gymnotus" ; Times: 1
+	Query: "catalognumber:37430 institutioncode:KU" ; Times: 1
+	Query: "Naso unicornis" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 2
+	Query: "Naso brevirostris mappable:1" ; Times: 2
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "KU 28789" ; Times: 1
+	Query: "catalognumber:24633 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:32755 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:26184 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:27892 institutioncode:KU" ; Times: 1
+	Query: "Acanthurus nigroris mappable:1" ; Times: 2
+	Query: "(22597) institutioncode:KU" ; Times: 1
+	Query: "Glossogobius giuris mappable:1" ; Times: 7
+	Query: "distance(location,geopoint(44.0001288545,-95.653079058))&lt;21078" ; Times: 4
+	Query: "catalognumber:26260 institutioncode:KU" ; Times: 1
+	Query: "oreochromis niloticus tana" ; Times: 1
+	Query: "catalognumber:32757 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:4911 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 4
+	Query: "Naso unicornis mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 7
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 1
+	Query: "catalognumber:32767 institutioncode:KU" ; Times: 1
+	Query: "scientificname:&#34;roeboides bouchellei&#34;" ; Times: 1
+	Query: "catalognumber:32772 institutioncode:KU" ; Times: 1
+	Query: "anderson 1896" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "vntype:specimen (Peru Junin ) institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 4
+	Query: "noturus placidus" ; Times: 4
+	Query: "Acipenseriformes" ; Times: 1
+	Query: "catalognumber:26265 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:28050 institutioncode:KU" ; Times: 1
+	Query: "latimeriidae" ; Times: 1
+	Query: "(19407) institutioncode:KU" ; Times: 1
+	Query: "specificepithet:erythrurum genus:Moxostoma county:&#34;Barber&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "KU 24629" ; Times: 2
+	Query: "catalognumber:32826 institutioncode:KU" ; Times: 1
+	Query: "cichlid" ; Times: 1
+	Query: "specificepithet:erythrurum genus:Moxostoma county:&#34;Kiowa&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Paracanthurus hepatus" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "genus:Pimelodella country:&#34;Panama&#34;" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "catalognumber:20240 institutioncode:KU" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "Astyanax fasciatus" ; Times: 1
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 6
+	Query: "genus:Fundulus locality:Salt Fork Arkansas River county:&#34;Comanche&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 2
+	Query: "catalognumber:27567 institutioncode:KU" ; Times: 1
+	Query: "genus:Hybognathus locality:Salt Fork Arkansas River county:&#34;Barber&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Polypteriformes" ; Times: 2
+	Query: "catalognumber:1272 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:27968 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:27886 institutioncode:KU" ; Times: 1
+	Query: "genus:Phenacobius catalognumber:4822 institutioncode:KU" ; Times: 1
+	Query: "(32061) institutioncode:KU" ; Times: 2
+	Query: "catalognumber:32426 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:9507 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "Acanthurus thompsoni" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 2
+	Query: "Newton 1868" ; Times: 1
+	Query: "catalognumber:26708 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:32768 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "distance(location,geopoint(43.4025036960001,-93.3249548545))&lt;12803" ; Times: 4
+	Query: "specificepithet:marina institutioncode:KU" ; Times: 2
+	Query: "Naso lituratus mappable:1" ; Times: 2
+	Query: "Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "19848" ; Times: 1
+	Query: "catalognumber:23598 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "(Actinopterygii and Tennessee)" ; Times: 1
+	Query: "distance(location,geopoint(43.9584544995,-95.1857501855))&lt;25378" ; Times: 4
+	Query: "B-1357" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 6
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "scientificname:&#34;forbesichthys agassizii&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Guna yala&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:32771 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:13512 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:37427 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(38.91491613655,-92.5239536137407))&lt;5501" ; Times: 4
+	Query: "raccoon" ; Times: 2
+	Query: "recordedby:Tuttle institutioncode:KU" ; Times: 1
+	Query: "catalognumber:32756 institutioncode:KU" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "catalognumber:32778 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(34.1738458175001,-96.6470341709999))&lt;8152" ; Times: 1
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 1
+	Query: "catalognumber:30510 institutioncode:KU" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 16
+	Query: "sicily" ; Times: 1
+	Query: "country:&#34;Panama&#34; institutioncode:KU" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 2
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "KU 24643" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 1
+	Query: "locality:Salt Fork Arkansas River stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:32766 institutioncode:KU" ; Times: 1
+	Query: "university of iowa" ; Times: 2
+	Query: "13773" ; Times: 1
+	Query: "belonesox belizanus" ; Times: 1
+	Query: "27620 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:20017 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:27885 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(38.96124829875,-92.5995447390948))&lt;5916" ; Times: 4
+	Query: "scientificname:&#34;notropis micropteryx&#34;" ; Times: 1
+	Query: "catalognumber:15818 institutioncode:KU" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Iowa&#34; country:&#34;United States of America&#34;" ; Times: 1
+	Query: "catalognumber:24580 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "catalognumber:20244 institutioncode:KU" ; Times: 1
+	Query: "scientificname:&#34;notropis suttkusi&#34;" ; Times: 1
+	Query: "catalognumber:1274 institutioncode:KU" ; Times: 2
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 1
+	Query: "catalognumber:1275 institutioncode:KU" ; Times: 2
+	Query: "genus:catostomus catalognumber:6876 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(29.7189808702855,-93.8858990183471))&lt;2043" ; Times: 1
+	Query: "Acanthurus guttatus" ; Times: 2
+	Query: "Acanthurus olivaceus" ; Times: 2
+	Query: "Acanthurus nigroris" ; Times: 2
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 1
+	Query: "catalognumber:32777 institutioncode:KU" ; Times: 1
+	Query: "scientificname:&#34;gila minacae&#34;" ; Times: 1
+	Query: "specificepithet:cragini genus:Etheostoma locality:Salt Fork Arkansas River stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:32773 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:32758 institutioncode:KU" ; Times: 1
+	Query: "scientificname:&#34;notropis sallaei&#34;" ; Times: 1
+	Query: "KU 24796" ; Times: 1
+	Query: "catalognumber:32775 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:27967 institutioncode:KU" ; Times: 1
+	Query: "Zebrasoma scopas mappable:1" ; Times: 1
+	Query: "Acanthurus nigricauda" ; Times: 2
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "catalognumber:32769 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:32754 institutioncode:KU" ; Times: 1
+	Query: "genus:Macrhybopsis catalognumber:6862 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 6
+	Query: "family:rivulidae country:&#34;Panama&#34;" ; Times: 2
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;yuriria alta&#34;" ; Times: 1
+	Query: "catalognumber:37905 institutioncode:KU" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 1
+	Query: "catalognumber:32776 institutioncode:KU" ; Times: 1
+	Query: "University of Iowa" ; Times: 1
+	Query: "specificepithet:erythrurum genus:Moxostoma stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "catalognumber:32770 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:32759 institutioncode:KU" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "catalognumber:27966 institutioncode:KU" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 1
+	Query: "iowa city" ; Times: 3
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 4
+	Query: "Ctenochaetus striatus" ; Times: 3
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "specificepithet:cirratum genus:Ginglymostoma" ; Times: 2
+	Query: "Etrumeus teres" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 2
+	Query: "Astyanax bimaculatus" ; Times: 1
+	Query: "catalognumber:120" ; Times: 2
+	Query: "27666 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(29.7114620591425,-93.8838571515))&lt;2563" ; Times: 1
+	Query: "catalognumber:26707 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:32763 institutioncode:KU" ; Times: 1
+	Query: "(19408) institutioncode:KU" ; Times: 1
+	Query: "catalognumber:20241 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 4
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "catalognumber:32762 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:27893 institutioncode:KU" ; Times: 1
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 2
+	Query: "catalognumber:15817 institutioncode:KU" ; Times: 1
+	Query: "27621 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "distance(location,geopoint(29.703943248,-93.8820537597454))&lt;2736" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "scientificname:&#34;cyprinella formosa&#34;" ; Times: 1
+	Query: "catalognumber:20246 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:20245 institutioncode:KU" ; Times: 1
+	Query: "polypteriformes" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "catalognumber:32760 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "astronotus ocellatus" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "goodea atripinnis" ; Times: 1
+	Query: "Acanthurus bahianus" ; Times: 1
+	Query: "distance(location,geopoint(46.2092667206665,-86.0902728338635))&lt;13795" ; Times: 7
+	Query: "catalognumber:20239 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(41.9716933765001,-94.4065588705))&lt;18904" ; Times: 4
+	Query: "Mustelus henlei" ; Times: 1
+	Query: "catalognumber:14049 institutioncode:KU" ; Times: 1
+	Query: "scientificname:&#34;gila conspersa&#34;" ; Times: 1
+	Query: "hystrix" ; Times: 1
+	Query: "Glossogobius callidus mappable:1" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "distance(location,geopoint(41.9016215460001,-83.3795440335))&lt;1671" ; Times: 4
+	Query: "acipenseriformes" ; Times: 3
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "distance(location,geopoint(46.3028756941665,-86.0973304315))&lt;13926" ; Times: 4
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "Sicydium altum mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 4
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "monogenea" ; Times: 1
+	Query: "Glossogobius sparsipapillus mappable:1" ; Times: 1
+	Query: "catalognumber:1269 institutioncode:KU" ; Times: 2
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+	Query: "ku 13478" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1892 download events in this period)
+Total number of records downloaded: 2899
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "family:Apteronotidae continent:South America mappable:1" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:cragini genus:Etheostoma locality:Salt Fork Arkansas River stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Gymnotiformes mappable:1" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+
+
+End of report.

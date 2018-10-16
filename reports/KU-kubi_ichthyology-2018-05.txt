@@ -1,0 +1,249 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 248
+Number of records retrieved in searches: 4621
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Morocco ; Times: 1
+	Country: China ; Times: 3
+	Country: Peru ; Times: 2
+	Country: United States ; Times: 221
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 13
+	Date: 2018-05-21 ; Times: 13
+	Date: 2018-05-22 ; Times: 5
+	Date: 2018-05-23 ; Times: 6
+	Date: 2018-05-24 ; Times: 19
+	Date: 2018-05-25 ; Times: 18
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-07 ; Times: 19
+	Date: 2018-05-04 ; Times: 12
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-03 ; Times: 13
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 5
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-31 ; Times: 7
+	Date: 2018-05-30 ; Times: 19
+	Date: 2018-05-15 ; Times: 15
+	Date: 2018-05-14 ; Times: 17
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-16 ; Times: 5
+	Date: 2018-05-11 ; Times: 6
+	Date: 2018-05-10 ; Times: 12
+	Date: 2018-05-13 ; Times: 3
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 21
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(43.067916277931,-89.6317882099673))&lt;9664" ; Times: 1
+	Query: "ku 32121" ; Times: 1
+	Query: "scientificname:(Etheostoma microperca) country:United States mappable:1" ; Times: 1
+	Query: "taxonomy" ; Times: 1
+	Query: "specificepithet:dimerus family:Cichlidae" ; Times: 1
+	Query: "ku 15221" ; Times: 1
+	Query: "ku 10977" ; Times: 1
+	Query: "distance(location,geopoint(44.371166546,-93.6820334855))&lt;19398" ; Times: 2
+	Query: "scientificname:(Salvelinus malma) country:United States mappable:1" ; Times: 1
+	Query: "KU 17707" ; Times: 1
+	Query: "KU 20262" ; Times: 1
+	Query: "catalognumber:7927 institutioncode:KU" ; Times: 1
+	Query: "Cottus bairdii" ; Times: 3
+	Query: "distance(location,geopoint(43.9584463493511,-95.1858499928992))&lt;39197" ; Times: 1
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 1
+	Query: "typhlichthys" ; Times: 2
+	Query: "ku 17734" ; Times: 1
+	Query: "Burr" ; Times: 1
+	Query: "scientificname:(Acipenser fulvescens) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "distance(location,geopoint(38.9879603599145,-92.7108775948784))&lt;29395" ; Times: 3
+	Query: "specificepithet:orinocense family:Cichlidae" ; Times: 2
+	Query: "31227" ; Times: 2
+	Query: "stateprovince:&#34;tabasco&#34; country:&#34;Mexico&#34; continent:america" ; Times: 1
+	Query: "ku 14146" ; Times: 1
+	Query: "scientificname:(Notropis amabilis) country:United States mappable:1" ; Times: 1
+	Query: "Skipjack Herring" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "18002" ; Times: 1
+	Query: "catostomus santaanae" ; Times: 1
+	Query: "distance(location,geopoint(41.7047640446795,-83.4943629612749))&lt;9603" ; Times: 1
+	Query: "KU 5929" ; Times: 1
+	Query: "specificepithet:splendida genus:Petenia" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "ku 23169" ; Times: 2
+	Query: "ku 17723" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "scientificname:(Noturus albater) country:United States mappable:1" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "noturus placidus" ; Times: 6
+	Query: "ku 10036" ; Times: 2
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 1
+	Query: "Morone americana " ; Times: 1
+	Query: "ku 11337" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "distance(location,geopoint(44.8222615935063,-93.8939967936303))&lt;26036" ; Times: 2
+	Query: "specificepithet:dimerus genus:Cichlasoma" ; Times: 2
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "&#34;Labeo calbasu&#34;" ; Times: 1
+	Query: "KU 12359" ; Times: 1
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "specificepithet:owroewefi family:Cichlidae" ; Times: 1
+	Query: "KU 5932" ; Times: 1
+	Query: "specificepithet:orinocense genus:Cichlasoma" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "specificepithet:guianensis family:Cichlidae" ; Times: 1
+	Query: "A. Burr" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "specificepithet:tuyrense family:Cichlidae" ; Times: 1
+	Query: "ku 17776" ; Times: 1
+	Query: "KU 10417" ; Times: 1
+	Query: "distance(location,geopoint(43.6598489215647,-95.6791910181292))&lt;33610" ; Times: 1
+	Query: "ku 25669" ; Times: 1
+	Query: "D. B. Rogers" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "KU 14269" ; Times: 1
+	Query: "ku 12341" ; Times: 1
+	Query: "KU 18006" ; Times: 1
+	Query: "distance(location,geopoint(43.4025036960001,-93.3249548545))&lt;12803" ; Times: 2
+	Query: "40447" ; Times: 2
+	Query: "tabasco" ; Times: 3
+	Query: "KU 18089" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "specificepithet:zamorensis family:Cichlidae institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(40.3259339471276,-90.0988653032703))&lt;18259" ; Times: 1
+	Query: "distance(location,geopoint(38.91491613655,-92.5239536137407))&lt;5501" ; Times: 4
+	Query: "distance(location,geopoint(38.905901129478,-92.5678721072175))&lt;18581" ; Times: 3
+	Query: "AL 3054" ; Times: 1
+	Query: "distance(location,geopoint(41.8976029593885,-83.301798682683))&lt;9659" ; Times: 1
+	Query: "specificepithet:zamorensis genus:Bujurquina" ; Times: 2
+	Query: "KU 28183" ; Times: 1
+	Query: "distance(location,geopoint(43.7498440531908,-96.162771894612))&lt;12275" ; Times: 2
+	Query: "distance(location,geopoint(43.779212493,-95.2178509615))&lt;17306" ; Times: 2
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 3
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 2
+	Query: "specificepithet:beani family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(44.0001288545,-95.653079058))&lt;21078" ; Times: 2
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "distance(location,geopoint(43.4623053706115,-89.3701269216162))&lt;38648" ; Times: 1
+	Query: "pseudochalceus" ; Times: 1
+	Query: "Labeo angra" ; Times: 3
+	Query: "distance(location,geopoint(38.96124829875,-92.5995447390948))&lt;5916" ; Times: 4
+	Query: "genus:Bujurquina" ; Times: 1
+	Query: "distance(location,geopoint(41.008117971147,-87.5390087322894))&lt;14523" ; Times: 1
+	Query: "distance(location,geopoint(43.1571285953795,-89.6242750647675))&lt;9135" ; Times: 1
+	Query: "mola" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "ku 14164" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 1
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 3
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "KU 29128" ; Times: 2
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:(Scaphirhynchus platorynchus) country:United States mappable:1" ; Times: 1
+	Query: "family:Percidae county:&#34;Pittsburg&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;matagorda&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ku 9432" ; Times: 1
+	Query: "KU 12389" ; Times: 1
+	Query: "specificepithet:vigilax county:&#34;pottawatomie&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "specificepithet:flavilabris family:Cichlidae" ; Times: 1
+	Query: "A. G. Burr" ; Times: 1
+	Query: "KU 28581" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "ku 23121" ; Times: 3
+	Query: "ku 10258" ; Times: 1
+	Query: "KU 7250" ; Times: 2
+	Query: "39454" ; Times: 1
+	Query: "KU 17701" ; Times: 1
+	Query: "KU 10979" ; Times: 1
+	Query: "genus:Petenia" ; Times: 1
+	Query: "distance(location,geopoint(38.8970493997129,-90.1791755405046))&lt;12230" ; Times: 2
+	Query: "specificepithet:nematopus family:Cichlidae" ; Times: 1
+	Query: "KU 15346" ; Times: 1
+	Query: "specificepithet:regani family:Cichlidae institutioncode:KU" ; Times: 2
+	Query: "scientificname:(Moxostoma carinatum) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(43.9584544995,-95.1857501855))&lt;25378" ; Times: 2
+	Query: "ku 17781" ; Times: 2
+	Query: "Zebrafish" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "KU 12650" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "locality:clear creek county:&#34;coconino&#34;" ; Times: 1
+	Query: "KU 12808" ; Times: 1
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 2
+	Query: "xiphophorus helleri" ; Times: 2
+	Query: "ku 8053" ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "35076" ; Times: 1
+	Query: "distance(location,geopoint(38.8259859740737,-92.504553279826))&lt;12653" ; Times: 2
+	Query: "ku 10246" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "genus:Neetroplus" ; Times: 1
+	Query: "ku 25627" ; Times: 1
+	Query: "ku 31141" ; Times: 1
+	Query: "country:&#34;Democratic Republic of Congo&#34;" ; Times: 1
+	Query: "9219" ; Times: 1
+	Query: "ku 15358" ; Times: 1
+	Query: "&#34;labeo pangusia&#34;" ; Times: 1
+	Query: "distance(location,geopoint(46.2092667206665,-86.0902728338635))&lt;13795" ; Times: 2
+	Query: "distance(location,geopoint(43.6460140694535,-96.2317194161254))&lt;17309" ; Times: 2
+	Query: "distance(location,geopoint(41.9716933765001,-94.4065588705))&lt;18904" ; Times: 2
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 2
+	Query: "specificepithet:regani genus:Cichlasoma" ; Times: 1
+	Query: "ku 12660" ; Times: 1
+	Query: "ku 25423" ; Times: 1
+	Query: "distance(location,geopoint(41.9016215460001,-83.3795440335))&lt;1671" ; Times: 2
+	Query: "distance(location,geopoint(46.3028756941665,-86.0973304315))&lt;13926" ; Times: 2
+	Query: "specificepithet:vigilax stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.2687332665436,-90.7884712327553))&lt;17866" ; Times: 1
+	Query: "distance(location,geopoint(44.7957496956751,-91.7467886332316))&lt;28569" ; Times: 1
+	Query: "KU 5079" ; Times: 2
+	Query: "Labeo gonius" ; Times: 3
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1178 download events in this period)
+Total number of records downloaded: 3402
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "morone americana" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+	Query: "percina" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,179 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 886
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 113
+	Country: Guatemala ; Times: 3
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: China ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 13
+	Date: 2018-07-12 ; Times: 6
+	Date: 2018-07-11 ; Times: 5
+	Date: 2018-07-10 ; Times: 13
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-16 ; Times: 4
+	Date: 2018-07-31 ; Times: 16
+	Date: 2018-07-30 ; Times: 5
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-26 ; Times: 12
+	Date: 2018-07-01 ; Times: 10
+	Date: 2018-07-02 ; Times: 5
+	Date: 2018-07-03 ; Times: 7
+	Date: 2018-07-23 ; Times: 3
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-24 ; Times: 13
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-25 ; Times: 12
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "18318" ; Times: 1
+	Query: "34490" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "Hypophthalmichthys" ; Times: 1
+	Query: "puntius guganio" ; Times: 1
+	Query: "3418" ; Times: 1
+	Query: "specificepithet:versicolor" ; Times: 1
+	Query: "18420" ; Times: 1
+	Query: "catalognumber:27531 institutioncode:KU" ; Times: 1
+	Query: "KU 4600" ; Times: 1
+	Query: "22763" ; Times: 2
+	Query: "catalognumber:27542 institutioncode:KU" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "23651" ; Times: 1
+	Query: "Ophidion scrippsae" ; Times: 2
+	Query: "(sufflamen) hasmedia:1" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "catalognumber:2375 institutioncode:KU" ; Times: 2
+	Query: "2259" ; Times: 1
+	Query: "12781" ; Times: 2
+	Query: "Gadus morhua" ; Times: 1
+	Query: "30999" ; Times: 1
+	Query: "cyprinella caerulea" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "14616" ; Times: 1
+	Query: "catalognumber:32700 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:21692 institutioncode:KU" ; Times: 1
+	Query: "20055" ; Times: 1
+	Query: "catalognumber:40770 institutioncode:KU" ; Times: 1
+	Query: "19663" ; Times: 1
+	Query: "2706" ; Times: 1
+	Query: "16129" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Santa Catarina" ; Times: 5
+	Query: "Ancistrus" ; Times: 2
+	Query: "Schultze" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "vntype:specimen specificepithet:rerio genus:danio" ; Times: 3
+	Query: "catalognumber:8330 institutioncode:KU" ; Times: 1
+	Query: "vntype:specimen specificepithet:rerio genus:danio institutioncode:KU" ; Times: 1
+	Query: "county:&#34;Patrick&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "13038" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "KU 8563" ; Times: 1
+	Query: "53355" ; Times: 1
+	Query: "(Sufflamen) hasmedia:1" ; Times: 3
+	Query: "gbifdatasetid:8f79c802-a58c-447f-99aa-1d6a0790825a" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "catalognumber:40769 institutioncode:KU" ; Times: 1
+	Query: "29884" ; Times: 1
+	Query: "ku 5862" ; Times: 1
+	Query: "ditaenia" ; Times: 1
+	Query: "4744 KU" ; Times: 1
+	Query: "echo 39" ; Times: 1
+	Query: "6070 KU" ; Times: 1
+	Query: "ku 2796" ; Times: 1
+	Query: "danio rerio" ; Times: 2
+	Query: "24926" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "17109 KU" ; Times: 1
+	Query: "2422" ; Times: 1
+	Query: "TNHC" ; Times: 1
+	Query: "specificepithet:rerio genus:danio" ; Times: 7
+	Query: "catalognumber:27532 institutioncode:KU" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "Latimeria" ; Times: 2
+	Query: "catalognumber:40764 institutioncode:KU" ; Times: 2
+	Query: "distribution" ; Times: 2
+	Query: "specificepithet:rerio genus:Danio" ; Times: 3
+	Query: "7287" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 9
+	Query: "catalognumber:38590 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:18465 institutioncode:KU" ; Times: 1
+	Query: "6505 KU" ; Times: 1
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "ansp 20120" ; Times: 1
+	Query: "ku 23444" ; Times: 2
+	Query: "19982" ; Times: 1
+	Query: "1456 KU" ; Times: 2
+	Query: "39041" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "3631 ku" ; Times: 1
+	Query: "1476 KU" ; Times: 1
+	Query: "locality:Stuart stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "catalognumber:1383 institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "26817" ; Times: 2
+	Query: "14764" ; Times: 1
+	Query: "izabal" ; Times: 1
+	Query: "county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; institutioncode:KU" ; Times: 2
+	Query: "24679" ; Times: 2
+	Query: "32613" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 977 download events in this period)
+Total number of records downloaded: 116
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 5
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Comal county" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Santa Catarina" ; Times: 2
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+
+
+End of report.

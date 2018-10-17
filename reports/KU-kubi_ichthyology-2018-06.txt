@@ -1,0 +1,255 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 323
+Number of records retrieved in searches: 1505
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 275
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 29
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-05 ; Times: 19
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 7
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 6
+	Date: 2018-06-26 ; Times: 5
+	Date: 2018-06-21 ; Times: 82
+	Date: 2018-06-20 ; Times: 25
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 8
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-11 ; Times: 3
+	Date: 2018-06-12 ; Times: 22
+	Date: 2018-06-13 ; Times: 47
+	Date: 2018-06-14 ; Times: 12
+	Date: 2018-06-15 ; Times: 20
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-17 ; Times: 10
+	Date: 2018-06-18 ; Times: 6
+	Date: 2018-06-19 ; Times: 18
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Acanthurus guttatus mappable:1" ; Times: 4
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "stichaeus punctatus" ; Times: 1
+	Query: "ku 10976" ; Times: 2
+	Query: "ku 34721" ; Times: 1
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "ku 14038" ; Times: 2
+	Query: "Pimephales promelas" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "locality:Paw Paw stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.3077605964849,-90.3488216489505))&lt;13734" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Zebrasoma xanthurum" ; Times: 2
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "dragonfly" ; Times: 2
+	Query: "catalognumber:16943 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:buckleyi " ; Times: 1
+	Query: "Naso unicornis" ; Times: 2
+	Query: "Black bear" ; Times: 1
+	Query: "Naso brevirostris mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(37.8548349724,-89.8514679239135))&lt;13787" ; Times: 1
+	Query: "locality:Schultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "Menidia extensa" ; Times: 1
+	Query: "Acanthurus nigroris mappable:1" ; Times: 3
+	Query: "KU 11527" ; Times: 2
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "ku 23363" ; Times: 2
+	Query: "KU 5929" ; Times: 3
+	Query: "&#34;Paw Paw&#34; vntype:specimen stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "catalognumber:17129 institutioncode:KU" ; Times: 1
+	Query: "39047" ; Times: 1
+	Query: "catalognumber:4293 institutioncode:KU" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 2
+	Query: "catalognumber:12642 institutioncode:KU" ; Times: 1
+	Query: "proteus" ; Times: 3
+	Query: "Flavescens iowa" ; Times: 2
+	Query: "ku 23169" ; Times: 1
+	Query: "tridentopsis pearsoni" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "distance(location,geopoint(36.9940289363794,-90.1823658933356))&lt;23608" ; Times: 1
+	Query: "distance(location,geopoint(38.1567853884565,-90.3365891312889))&lt;12917" ; Times: 1
+	Query: "KU 5932" ; Times: 2
+	Query: "catalognumber:21692 institutioncode:KU" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "distance(location,geopoint(37.9940788312488,-89.8514679239135))&lt;13019" ; Times: 1
+	Query: "distance(location,geopoint(44.9071231588729,-93.415851845333))&lt;10271" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 3
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "KU 727" ; Times: 1
+	Query: "ku 17777" ; Times: 3
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "distance(location,geopoint(38.0646425196319,-90.2947167320337))&lt;6436" ; Times: 1
+	Query: "Acanthurus thompsoni" ; Times: 2
+	Query: "Trichomycterus nigricans" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "36384`1" ; Times: 1
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(45.1023002453255,-93.167236335211))&lt;12793" ; Times: 1
+	Query: "Trichomycterus" ; Times: 1
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "KU 34676" ; Times: 1
+	Query: "black bear" ; Times: 6
+	Query: "KU 36740" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "raccoon" ; Times: 2
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 3
+	Query: "ku 10936" ; Times: 2
+	Query: "distance(location,geopoint(43.7498440531908,-96.162771894612))&lt;12275" ; Times: 1
+	Query: "country:&#34;united states of america&#34;" ; Times: 1
+	Query: "KU 21658" ; Times: 2
+	Query: "catalognumber:10218 institutioncode:KU" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "(20208) institutioncode:KU" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "vntype:specimen specificepithet:bimaculatus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Orestias" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "(EtOH OR Ethanol) institutioncode:KU hastissue:1" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "&#34;Trichomycterus nigricans&#34;" ; Times: 1
+	Query: "KU-32808" ; Times: 1
+	Query: "&#34;labeo rosae&#34;" ; Times: 1
+	Query: "atractosteus tropicus" ; Times: 22
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "ku 12440" ; Times: 2
+	Query: "Acanthurus nigroris" ; Times: 3
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 2
+	Query: "ku 19177" ; Times: 2
+	Query: "15540" ; Times: 1
+	Query: "TNHC" ; Times: 1
+	Query: "distance(location,geopoint(37.8602267720173,-90.0252233769398))&lt;8915" ; Times: 1
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "Acanthurus nigricauda" ; Times: 4
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "psychrolutes" ; Times: 1
+	Query: "distance(location,geopoint(38.005810180428,-90.100144786432))&lt;13769" ; Times: 1
+	Query: "Ictalurus sp." ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "KU 40638" ; Times: 1
+	Query: "Naso lituratus" ; Times: 3
+	Query: "distance(location,geopoint(44.8059502237725,-93.415851845333))&lt;12831" ; Times: 1
+	Query: "KU 18447" ; Times: 3
+	Query: "Naso hexacanthus" ; Times: 2
+	Query: "sphoeroides maculatus vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "distance(location,geopoint(43.7119288265328,-93.0336932352666))&lt;15465" ; Times: 2
+	Query: "Acanthurus dussumieri" ; Times: 3
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "larvae institutioncode:KU" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Gila bicolor" ; Times: 8
+	Query: "28940" ; Times: 1
+	Query: "distance(location,geopoint(38.1567853884565,-90.1885826635496))&lt;8951" ; Times: 1
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 4
+	Query: "31224" ; Times: 1
+	Query: "19696 institutioncode:KU" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "morpho" ; Times: 2
+	Query: "sphoeroides nephelus vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "orestias" ; Times: 2
+	Query: "KU 10842" ; Times: 1
+	Query: "dinosaur" ; Times: 1
+	Query: "&#34;Paw Paw&#34; vntype:specimen" ; Times: 1
+	Query: "ku 18940" ; Times: 3
+	Query: "KU 33551" ; Times: 2
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "distance(location,geopoint(43.6460140694535,-96.2317194161254))&lt;17309" ; Times: 1
+	Query: "KU 30437" ; Times: 2
+	Query: "catalognumber:12633 institutioncode:KU" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "Cyprinodon macularius" ; Times: 1
+	Query: "KU 5937" ; Times: 3
+	Query: "Black Bear" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "Catenatus oklahoma" ; Times: 3
+	Query: "Teleostei" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "ku 19214" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1169 download events in this period)
+Total number of records downloaded: 2890
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Panama ; Times: 2
+	Country: Ecuador ; Times: 8
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-19 ; Times: 9
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "atractosteus tropicus" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "pterois volitans" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 8
+	Query: "Labeo rohita" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "elephant" ; Times: 1
+	Query: "locality:Schultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+
+
+End of report.

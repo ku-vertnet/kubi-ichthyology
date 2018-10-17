@@ -1,0 +1,254 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 327
+Number of records retrieved in searches: 6717
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 282
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 13
+	Country: Denmark ; Times: 3
+	Country: New Zealand ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-28 ; Times: 3
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 12
+	Date: 2018-08-18 ; Times: 5
+	Date: 2018-08-19 ; Times: 6
+	Date: 2018-08-16 ; Times: 6
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-14 ; Times: 9
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-13 ; Times: 3
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-03 ; Times: 5
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-27 ; Times: 36
+	Date: 2018-08-24 ; Times: 24
+	Date: 2018-08-23 ; Times: 7
+	Date: 2018-08-22 ; Times: 14
+	Date: 2018-08-21 ; Times: 28
+	Date: 2018-08-20 ; Times: 115
+	Date: 2018-08-06 ; Times: 4
+	Date: 2018-08-01 ; Times: 30
+	Date: 2018-08-29 ; Times: 3
+	Date: 2018-08-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "18364 KU" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "Cichla monoculus" ; Times: 1
+	Query: "1435 KU" ; Times: 1
+	Query: "catalognumber:24247 institutioncode:KU" ; Times: 1
+	Query: "vntype:specimen (apteronotus leptorhynchus)" ; Times: 1
+	Query: "24493" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "etheostoma nigripinne" ; Times: 2
+	Query: "21408" ; Times: 1
+	Query: "stateprovince:&#34;iowa&#34; (etheostoma spectabile)" ; Times: 1
+	Query: "ku 17732" ; Times: 1
+	Query: "catalognumber:9484 institutioncode:KU" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "14872 KU" ; Times: 1
+	Query: "Apteronotus" ; Times: 1
+	Query: "KU 17777" ; Times: 2
+	Query: "specificepithet:leptorhynchus genus:apteronotus" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "catalognumber:39956 institutioncode:KU" ; Times: 3
+	Query: "KU 6517" ; Times: 3
+	Query: "30046" ; Times: 1
+	Query: "catalognumber:23750 institutioncode:KU" ; Times: 2
+	Query: "Canthidermis sufflamen" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "KU 25211" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 2
+	Query: "Ohio state university" ; Times: 2
+	Query: "Leporinus friderici" ; Times: 1
+	Query: "Pseudobalistes fuscus" ; Times: 1
+	Query: "19663 KU" ; Times: 1
+	Query: "KU 35711" ; Times: 1
+	Query: "KU 7066" ; Times: 3
+	Query: "Ituglanis" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "prochilodus nigricans" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "KU-41059" ; Times: 1
+	Query: "KU 9612" ; Times: 1
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "specificepithet:emiliae genus:Opsopoeodus" ; Times: 1
+	Query: "confusus" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "noturus placidus" ; Times: 6
+	Query: "14651 KU" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "26688" ; Times: 1
+	Query: "apteronotus leptorhynchus vntype:specimen" ; Times: 1
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "Chaetobranchus flavescens" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "catalognumber:26688 institutioncode:KU" ; Times: 4
+	Query: "Astronotus ocellatus" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "catalognumber:35093 institutioncode:KU" ; Times: 2
+	Query: "16139 KU" ; Times: 1
+	Query: "282 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:15443 institutioncode:KU" ; Times: 1
+	Query: "30447" ; Times: 1
+	Query: "13900" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "university of miami reference collection" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "specificepithet:tennesseensis genus:Phoxinus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "apteronotus vntype:specimen" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "locality:sand creek" ; Times: 1
+	Query: "21408 KU" ; Times: 1
+	Query: "18267 institutioncode:KU" ; Times: 3
+	Query: "catalognumber:28984 institutioncode:KU" ; Times: 1
+	Query: "9832 KU" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "county:&#34;madison&#34; stateprovince:&#34;iowa&#34;" ; Times: 2
+	Query: "11297" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "Schizodon fasciatus" ; Times: 2
+	Query: "specificepithet:aurantiaca genus:Percina stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "DOL" ; Times: 1
+	Query: "megalepis" ; Times: 1
+	Query: "Paracanthocobitis" ; Times: 3
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Orestias" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "latimeria vntype:specimen" ; Times: 2
+	Query: "catalognumber:39955 institutioncode:KU" ; Times: 2
+	Query: "B-3403" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:alcorn" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "locality:Rodeo" ; Times: 1
+	Query: "genus:Alutera specificepithet:scripta" ; Times: 3
+	Query: "16123 KU" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "trilineatus institutioncode:KU" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "Hypleurochilus geminatus" ; Times: 2
+	Query: "specificepithet:panarcys genus:cyprinella" ; Times: 2
+	Query: "15862" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "14615 KU" ; Times: 1
+	Query: "Noturus munitus" ; Times: 1
+	Query: "Apteronotus leptorhynchus" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "country:&#34;Costa Rica&#34; recordedby:Taylor" ; Times: 1
+	Query: "Rhinecanthus assasi" ; Times: 1
+	Query: "catalognumber:29489 institutioncode:KU" ; Times: 2
+	Query: "27449" ; Times: 1
+	Query: "catalognumber:29490 institutioncode:KU" ; Times: 2
+	Query: "country:&#34;Philippines&#34; institutioncode:KU" ; Times: 1
+	Query: "KU 17707" ; Times: 1
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "Xanthichthys auromarginatus" ; Times: 1
+	Query: "genus:Xiphophorus" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "KU 8132" ; Times: 2
+	Query: "32593" ; Times: 7
+	Query: "null" ; Times: 122
+	Query: "14868 KU" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus mappable:1" ; Times: 1
+	Query: "Cichlasoma dimerus" ; Times: 1
+	Query: "7066 KU" ; Times: 2
+	Query: "Balistoides viridescens" ; Times: 1
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "Cirrhilabrus jordani" ; Times: 1
+	Query: "Pine Valley Creek" ; Times: 2
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "25004" ; Times: 1
+	Query: "orestias" ; Times: 1
+	Query: "Prochilodus nigricans" ; Times: 4
+	Query: "Schizodon" ; Times: 1
+	Query: "Odonus niger" ; Times: 1
+	Query: "(etheostoma caeruleum)" ; Times: 1
+	Query: "specificepithet:evides genus:Percina stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "locality:San country:&#34;Guatemala&#34; year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "Sufflamen chrysopterum" ; Times: 1
+	Query: "KU 21905" ; Times: 3
+	Query: "genus:astyanax stateprovince:&#34;Texas&#34; year &lt;= 1955" ; Times: 1
+	Query: "13171" ; Times: 2
+	Query: "crayfish" ; Times: 1
+	Query: "locality:Cozumel stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34; (Cozumel) basisofrecord:PreservedSpecimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1416 download events in this period)
+Total number of records downloaded: 490
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 11
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-20 ; Times: 6
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tennesseensis genus:Phoxinus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "prochilodus nigricans" ; Times: 2
+	Query: "Hoplias malabaricus" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "country:&#34;Costa Rica&#34; recordedby:Taylor" ; Times: 1
+	Query: "Ituglanis" ; Times: 1
+	Query: "Prochilodus nigricans" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "vntype:specimen (apteronotus leptorhynchus)" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "country:&#34;Philippines&#34; institutioncode:KU" ; Times: 1
+	Query: "Chaetobranchus flavescens" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "Schizodon fasciatus" ; Times: 1
+	Query: "Cichla monoculus" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "Leporinus friderici" ; Times: 2
+	Query: "Ecuador" ; Times: 1
+	Query: "Anisotremus virginicus" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,202 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 1631
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 112
+	Country: Germany ; Times: 9
+	Country: Peru ; Times: 1
+	Country: China ; Times: 3
+	Country: Norway ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-26 ; Times: 6
+	Date: 2018-09-01 ; Times: 2
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-21 ; Times: 12
+	Date: 2018-09-04 ; Times: 10
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-28 ; Times: 8
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 50
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-15 ; Times: 3
+	Date: 2018-09-14 ; Times: 3
+	Date: 2018-09-17 ; Times: 4
+	Date: 2018-09-16 ; Times: 8
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-27 ; Times: 6
+	Date: 2018-09-20 ; Times: 8
+	Date: 2018-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "KU 16456" ; Times: 1
+	Query: "27812 institutioncode:KU" ; Times: 1
+	Query: "Melanostomias bartonbeani" ; Times: 1
+	Query: "ku 15221" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;yucatan&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "hoplerythrinus" ; Times: 1
+	Query: "skeleton vntype:specimen genus:Alosa" ; Times: 1
+	Query: "Bathophilus vaillanti" ; Times: 1
+	Query: "Pimephales promelas" ; Times: 1
+	Query: "ku 12806" ; Times: 1
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 3
+	Query: "16678" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "KU 14164" ; Times: 2
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Icichthys lockingtoni" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:1307 institutioncode:KU" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 2
+	Query: "Washington State university" ; Times: 1
+	Query: "Orconectes virilis" ; Times: 1
+	Query: "Borostomias antarcticus" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "34893-1" ; Times: 1
+	Query: "Diaphus theta" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "brushy creek spring" ; Times: 1
+	Query: "Danio rerio" ; Times: 3
+	Query: "Sebastes flavidus" ; Times: 1
+	Query: "locality:Kolyma" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "salvelinus malma" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 2
+	Query: "OSU" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:miurus genus:Noturus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "scientificname:(Moxostoma lachneri OR Scartomyzon lachneri) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "ku 25669" ; Times: 1
+	Query: "ku 23463" ; Times: 1
+	Query: "27792 institutioncode:KU" ; Times: 1
+	Query: "hoplias microlepis" ; Times: 1
+	Query: "(4921) institutioncode:KU" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "locality:kolyma" ; Times: 2
+	Query: "KU 17765" ; Times: 1
+	Query: "genus:Lycodes institutioncode:KU" ; Times: 1
+	Query: "genus:astyanax country:&#34;mexico&#34;" ; Times: 1
+	Query: "Gadella imberbis" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 2
+	Query: "KU 5212" ; Times: 1
+	Query: "KU 19608" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "ku 11337" ; Times: 3
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "27793 institutioncode:KU" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "genus:Alutera specificepithet:scripta" ; Times: 1
+	Query: "(yaqui)" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "William Duellman" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Sardinella aurita" ; Times: 2
+	Query: "prairie dog" ; Times: 2
+	Query: "monopterus" ; Times: 1
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:26303 institutioncode:KU" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 2
+	Query: "ku 23241" ; Times: 1
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 3
+	Query: "ku 17765" ; Times: 2
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 3
+	Query: "genus:astyanax stateprovince:&#34;san luis potosi&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:undulatus genus:menticirrhus" ; Times: 1
+	Query: "torpedo californica" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "Guadalupe Island 1899" ; Times: 1
+	Query: "Salmo sp" ; Times: 1
+	Query: "3783 institutioncode:KU" ; Times: 2
+	Query: "oklahoma state university" ; Times: 1
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 4
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus santaanae) country:United States mappable:1" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "sphoeroides nephelus" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "astyanax san luis potosi" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "myanmar institutioncode:KU" ; Times: 2
+	Query: "ku 17707" ; Times: 1
+	Query: "ohio state university" ; Times: 1
+	Query: "noturus munitus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 846 download events in this period)
+Total number of records downloaded: 605
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Etheostoma osburni" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "haslength:1" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "locality:kolyma" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.

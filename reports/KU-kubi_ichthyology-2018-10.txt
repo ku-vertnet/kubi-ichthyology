@@ -1,0 +1,245 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 180
+Number of records retrieved in searches: 1105
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 146
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Venezuela ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-23 ; Times: 27
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-01 ; Times: 4
+	Date: 2018-10-02 ; Times: 12
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-04 ; Times: 9
+	Date: 2018-10-05 ; Times: 8
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 3
+	Date: 2018-10-27 ; Times: 2
+	Date: 2018-10-24 ; Times: 5
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 4
+	Date: 2018-10-18 ; Times: 13
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 3
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-10 ; Times: 11
+	Date: 2018-10-17 ; Times: 3
+	Date: 2018-10-16 ; Times: 8
+	Date: 2018-10-15 ; Times: 52
+
+List of queries that retrieved data from the resource: 
+	Query: "Acipenser brevirostrum" ; Times: 1
+	Query: "taxonomy" ; Times: 1
+	Query: "Parmaturus" ; Times: 1
+	Query: "22838" ; Times: 1
+	Query: "christyi" ; Times: 1
+	Query: "Roeboides bouchellei" ; Times: 2
+	Query: "vntype:specimen (apteronotus leptorhynchus)" ; Times: 1
+	Query: "catalognumber:31988 institutioncode:KU" ; Times: 1
+	Query: "Doryrhamphus excisus excisus mappable:1" ; Times: 1
+	Query: "Pseudobalistes fuscus" ; Times: 1
+	Query: "Synchiropus splendidus" ; Times: 1
+	Query: "Doryrhamphus excisus excisus" ; Times: 1
+	Query: "Diplogrammus goramensis" ; Times: 1
+	Query: "Lampetra tridentata mappable:1" ; Times: 1
+	Query: "Acanthostracion polygonius" ; Times: 1
+	Query: "Corythoichthys flavofasciatus mappable:1" ; Times: 2
+	Query: "Antennarius multiocellatus" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "Lactophrys bicaudalis mappable:1" ; Times: 1
+	Query: "Syngnathus floridae mappable:1" ; Times: 1
+	Query: "nana institutioncode:KU" ; Times: 1
+	Query: "Hippocampus hippocampus mappable:1" ; Times: 1
+	Query: "Lactoria cornuta mappable:1" ; Times: 1
+	Query: "Corythoichthys intestinalis" ; Times: 2
+	Query: "catalognumber:27267 institutioncode:KU" ; Times: 1
+	Query: "Hippocampus zosterae mappable:1" ; Times: 1
+	Query: "17713" ; Times: 1
+	Query: "Pseudophallus mindii" ; Times: 1
+	Query: "Acentronura dendritica" ; Times: 1
+	Query: "fish quintana roo" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "mola mola" ; Times: 3
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "Syngnathus louisianae" ; Times: 1
+	Query: "noturus placidus" ; Times: 12
+	Query: "20614" ; Times: 2
+	Query: "specificepithet:macularius genus:cyprinodon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "St clair county missouri" ; Times: 1
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 1
+	Query: "pristipomoides" ; Times: 1
+	Query: "Ohio State University" ; Times: 1
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "Syngnathus leptorhynchus mappable:1" ; Times: 1
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 3
+	Query: "Lactophrys trigonus" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "catalognumber:27567 institutioncode:KU" ; Times: 2
+	Query: "Astronotus ocellatus" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "Callionymus filamentosus mappable:1" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "Chaetodon ocellatus" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "Anarhichas lupus" ; Times: 1
+	Query: "Phoxocampus belcheri" ; Times: 1
+	Query: "Erythrogaster Ohio" ; Times: 1
+	Query: "KU 27326" ; Times: 1
+	Query: "Syngnathus fuscus" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "rosae" ; Times: 1
+	Query: "Syngnathus fuscus mappable:1" ; Times: 1
+	Query: "Ostracion cubicus" ; Times: 1
+	Query: "Syngnathus californiensis mappable:1" ; Times: 1
+	Query: "Aulostomus chinensis mappable:1" ; Times: 2
+	Query: "Acanthostracion polygonius mappable:1" ; Times: 1
+	Query: "Pseudophallus mindii mappable:1" ; Times: 1
+	Query: "Diplogrammus goramensis mappable:1" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "coryphopterus personatus haslength:1" ; Times: 1
+	Query: "Corythoichthys intestinalis intestinalis mappable:1" ; Times: 1
+	Query: "Choeroichthys sculptus" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "catalognumber:326 institutioncode:KU" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Syngnathus louisianae mappable:1" ; Times: 1
+	Query: "Paradiplogrammus bairdi mappable:1" ; Times: 2
+	Query: "Syngnathus californiensis californiensis mappable:1" ; Times: 1
+	Query: "32087" ; Times: 1
+	Query: "Corythoichthys intestinalis intestinalis" ; Times: 1
+	Query: "Hypleurochilus geminatus" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 3
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "Syngnathus californiensis californiensis" ; Times: 1
+	Query: "genus:Macrhybopsis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Balistoides viridescens" ; Times: 1
+	Query: "Xanthichthys auromarginatus" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Lactophrys bicaudalis" ; Times: 1
+	Query: "15546" ; Times: 1
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "Corythoichthys flavofasciatus" ; Times: 2
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "catalognumber:1580 institutioncode:KU" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "Rhinecanthus assasi" ; Times: 1
+	Query: "Choeroichthys sculptus mappable:1" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "genus:Catostomus county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Rhinesomus bicaudalis" ; Times: 1
+	Query: "Alfonso" ; Times: 1
+	Query: "Paradiplogrammus bairdi" ; Times: 2
+	Query: "Cozumel" ; Times: 1
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "Doryrhamphus excisus mappable:1" ; Times: 1
+	Query: "B-178" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "(auriculatus) institutioncode:KU" ; Times: 1
+	Query: "Ojinaga" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "rock minnesota" ; Times: 1
+	Query: "Phoxocampus belcheri mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus mappable:1" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "ku 1361" ; Times: 1
+	Query: "Acentronura dendritica mappable:1" ; Times: 1
+	Query: "Hippocampus zosterae" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "Odonus niger" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "Syngnathus californiensis" ; Times: 1
+	Query: "catalognumber:27319 institutioncode:KU" ; Times: 1
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "Corythoichthys intestinalis mappable:1" ; Times: 2
+	Query: "Canthidermis sufflamen" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "Sufflamen chrysopterum" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "characodon" ; Times: 1
+	Query: "brachyistius frenatus" ; Times: 1
+	Query: "(grunniens)" ; Times: 1
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1300 download events in this period)
+Total number of records downloaded: 288
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 9
+	Country: Belgium ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-21 ; Times: 2
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "paulson" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "specificepithet:chrysops genus:Stenotomus" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "fish quintana roo" ; Times: 1
+	Query: "brachyistius frenatus" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "country:&#34;Venezuela&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "fish country: &#34;Brazil&#34;" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "Paulson" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.

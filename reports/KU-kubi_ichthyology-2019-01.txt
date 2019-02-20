@@ -1,0 +1,178 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 456
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Bonaire ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: France ; Times: 29
+	Country: United States ; Times: 53
+	Country: Netherlands ; Times: 7
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Venezuela ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 10
+	Date: 2019-01-23 ; Times: 8
+	Date: 2019-01-18 ; Times: 3
+	Date: 2019-01-14 ; Times: 6
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-30 ; Times: 17
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 12
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 6
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-29 ; Times: 9
+	Date: 2019-01-28 ; Times: 5
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 4
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 6
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-20 ; Times: 6
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-24 ; Times: 14
+	Date: 2019-01-27 ; Times: 3
+	Date: 2019-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Esox lucius" ; Times: 1
+	Query: "Sardina pilchardus mappable:1" ; Times: 5
+	Query: "15285" ; Times: 1
+	Query: "specificepithet:perpallidus genus:notropis" ; Times: 1
+	Query: "KU 211765" ; Times: 1
+	Query: "20371" ; Times: 1
+	Query: "22239" ; Times: 1
+	Query: "(11966)" ; Times: 1
+	Query: "KU 8886" ; Times: 1
+	Query: "Xiphophorus xiphidium" ; Times: 1
+	Query: "KU 14792" ; Times: 1
+	Query: "specificepithet:auritus genus:lepomis stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "preparations:c&amp;s institutioncode:KU" ; Times: 1
+	Query: "xenicus" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "ku 39648" ; Times: 1
+	Query: "ku 39646" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "ku 39645" ; Times: 1
+	Query: "ku 39642" ; Times: 2
+	Query: "ku 39640" ; Times: 1
+	Query: "ku 39641" ; Times: 1
+	Query: "21773" ; Times: 1
+	Query: "ku 39647" ; Times: 1
+	Query: "hypsypops rubicundus" ; Times: 1
+	Query: "Sebastes saxicola" ; Times: 1
+	Query: "specificepithet:alfari institutioncode:KU" ; Times: 1
+	Query: "noturus placidus" ; Times: 2
+	Query: "ku 39644" ; Times: 1
+	Query: "Cottus klamathensis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bothus podas mappable:1" ; Times: 4
+	Query: "16565" ; Times: 1
+	Query: "13917" ; Times: 1
+	Query: "genus:Sarcocheilichthys" ; Times: 1
+	Query: "rhina" ; Times: 2
+	Query: "Cottus klamathensis" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 4
+	Query: "raja rhina" ; Times: 3
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "catalognumber:17776 institutioncode:KU" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "rhinobatos schlegelii" ; Times: 5
+	Query: "31794" ; Times: 1
+	Query: "6502 institutioncode:KU" ; Times: 2
+	Query: "15171" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "16408" ; Times: 1
+	Query: "Apogon imberbis mappable:1" ; Times: 4
+	Query: "3464" ; Times: 1
+	Query: "35292" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 4
+	Query: "genus:etheostoma county:&#34;pike&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "8054" ; Times: 1
+	Query: "22236" ; Times: 1
+	Query: "22237" ; Times: 1
+	Query: "22235" ; Times: 1
+	Query: "rhizosomichthys totae" ; Times: 2
+	Query: "vntype:specimen catalognumber:18043 institutioncode:KU" ; Times: 1
+	Query: "genus:etheostoma county:&#34;powell&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "genus:etheostoma county:&#34;mccreary&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "(drayton)" ; Times: 1
+	Query: "12623" ; Times: 1
+	Query: "anoxypristis" ; Times: 2
+	Query: "26287" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "TNHC" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "Fundulus zebrinus" ; Times: 2
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 4
+	Query: "KU 17709" ; Times: 1
+	Query: "astyanax abramis" ; Times: 2
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Sint Eustatius&#34;" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "13818" ; Times: 1
+	Query: "tnhc" ; Times: 1
+	Query: "Spicara smaris mappable:1" ; Times: 2
+	Query: "KU 22581" ; Times: 1
+	Query: "Belone belone mappable:1" ; Times: 1
+	Query: "anomalus institutioncode:KU" ; Times: 1
+	Query: "31174 institutioncode:KU" ; Times: 1
+	Query: "leptagoniates" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 3
+	Query: "Anarrhichthys ocellatus" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Fundulus jenkinsi" ; Times: 1
+	Query: "sand fly" ; Times: 1
+	Query: "(nanus) institutioncode:KU" ; Times: 1
+	Query: "anoplopoma fimbria" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "genus:notropis county:&#34;hardin&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 962 download events in this period)
+Total number of records downloaded: 1515
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Fundulus jenkinsi" ; Times: 2
+	Query: "Cottus klamathensis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,430 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1125
+Number of records retrieved in searches: 3304
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 83
+	Country: Saudi Arabia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 10
+	Country: Mexico ; Times: 9
+	Country: Denmark ; Times: 9
+	Country: Micronesia ; Times: 1
+	Country: France ; Times: 912
+	Country: United Kingdom ; Times: 11
+	Country: Canada ; Times: 1
+	Country: New Zealand ; Times: 72
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-08 ; Times: 4
+	Date: 2019-05-07 ; Times: 8
+	Date: 2019-05-06 ; Times: 76
+	Date: 2019-05-05 ; Times: 17
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 6
+	Date: 2019-05-02 ; Times: 2
+	Date: 2019-05-01 ; Times: 3
+	Date: 2019-05-25 ; Times: 240
+	Date: 2019-05-24 ; Times: 92
+	Date: 2019-05-27 ; Times: 72
+	Date: 2019-05-26 ; Times: 255
+	Date: 2019-05-21 ; Times: 5
+	Date: 2019-05-20 ; Times: 6
+	Date: 2019-05-23 ; Times: 142
+	Date: 2019-05-22 ; Times: 82
+	Date: 2019-05-29 ; Times: 53
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 7
+	Date: 2019-05-14 ; Times: 10
+	Date: 2019-05-15 ; Times: 10
+	Date: 2019-05-16 ; Times: 9
+	Date: 2019-05-17 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "Sardinella aurita mappable:1" ; Times: 1
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 3
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Raja texana" ; Times: 1
+	Query: "Okamejei acutispina" ; Times: 1
+	Query: "Chromis enchrysura mappable:1" ; Times: 3
+	Query: "KU 21351" ; Times: 1
+	Query: "Malacoctenus versicolor mappable:1" ; Times: 10
+	Query: "Scomberomorus regalis mappable:1" ; Times: 1
+	Query: "scientificname:(Exoglossum laurae) country:United States mappable:1" ; Times: 1
+	Query: "xanthonota" ; Times: 1
+	Query: "KU 18105" ; Times: 2
+	Query: "Telatrygon zugei" ; Times: 1
+	Query: "Entomacrodus nigricans mappable:1" ; Times: 1
+	Query: "Apsilus dentatus mappable:1" ; Times: 2
+	Query: "county:&#34;russell&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "catalognumber:9889 institutioncode:KU" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Scarus coeruleus mappable:1" ; Times: 4
+	Query: "ku 17555" ; Times: 1
+	Query: "Seriola dumerili mappable:1" ; Times: 2
+	Query: "Diodon holocanthus mappable:1" ; Times: 16
+	Query: "Myliobatis californica" ; Times: 1
+	Query: "Rhinobatos schlegelii" ; Times: 1
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 10
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "KU 12634" ; Times: 2
+	Query: "cyprinodon rubrofluviatilis" ; Times: 1
+	Query: "TNHC" ; Times: 1
+	Query: "Etmopterus molleri" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "Echidna catenata mappable:1" ; Times: 1
+	Query: "Hypanus say" ; Times: 1
+	Query: "Strongylura timucu mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; country:&#34;United States of America&#34;" ; Times: 1
+	Query: "Lactophrys bicaudalis mappable:1" ; Times: 3
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "Scorpaena brasiliensis mappable:1" ; Times: 5
+	Query: "Apristurus macrostomus" ; Times: 1
+	Query: "Cephaloscyllium ventriosum" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "Chimaera jordani" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "Bathyraja maculata" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "holmes ku" ; Times: 1
+	Query: "Antennarius multiocellatus mappable:1" ; Times: 3
+	Query: "KU 17620" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 2
+	Query: "Fundulus waccamensis" ; Times: 2
+	Query: "Myliobatis freminvillei" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 11
+	Query: "Bathyraja parmifera" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 3
+	Query: "Chascanopsetta" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 14
+	Query: "Nomeus gronovii mappable:1" ; Times: 1
+	Query: "Hemitrygon bennettii" ; Times: 1
+	Query: "Aluterus scriptus mappable:1" ; Times: 10
+	Query: "Okamejei hollandi" ; Times: 1
+	Query: "Bathyraja aleutica" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 11
+	Query: "Malacanthus plumieri mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Okamejei boesemani" ; Times: 1
+	Query: "Apogon planifrons mappable:1" ; Times: 20
+	Query: "prolatus" ; Times: 1
+	Query: "Starksia ocellata mappable:1" ; Times: 10
+	Query: "Crystallaria cincotta" ; Times: 2
+	Query: "Parmaturus xaniurus" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 23
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 20
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Symphysodon discus" ; Times: 1
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Decodon puellaris mappable:1" ; Times: 1
+	Query: "Halichoeres cyanocephalus mappable:1" ; Times: 11
+	Query: "Pseudobatos productus" ; Times: 1
+	Query: "Kajikia albida mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Mustelus canis mappable:1" ; Times: 2
+	Query: "Lutjanus synagris mappable:1" ; Times: 9
+	Query: "noturus placidus" ; Times: 10
+	Query: "catalognumber:21451 institutioncode:KU" ; Times: 1
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 11
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 1
+	Query: "Squalus formosus" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Mustelus canis" ; Times: 1
+	Query: "Calamus pennatula mappable:1" ; Times: 2
+	Query: "Atelomycterus macleayi" ; Times: 1
+	Query: "Decapterus punctatus mappable:1" ; Times: 2
+	Query: "Bathyraja minispinosa" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 1
+	Query: "Chiloscyllium punctatum" ; Times: 1
+	Query: "Raja rhina" ; Times: 1
+	Query: "Missouri Dunklin county" ; Times: 1
+	Query: "Taeniura lymma" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 2
+	Query: "17 PERU" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "locality:Niobrara county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "Gymnothorax moringa mappable:1" ; Times: 1
+	Query: "Scarus iseri mappable:1" ; Times: 4
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "Bathophilus digitatus mappable:1" ; Times: 1
+	Query: "Lutjanus jocu mappable:1" ; Times: 11
+	Query: "Caranx hippos mappable:1" ; Times: 2
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 3
+	Query: "Halichoeres bivittatus mappable:1" ; Times: 11
+	Query: "Fenestraja plutonia" ; Times: 1
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "Melanorhinus microps mappable:1" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 1
+	Query: "Acestrorhynchus falcatus" ; Times: 1
+	Query: "Halichoeres radiatus mappable:1" ; Times: 11
+	Query: "Equetus punctatus mappable:1" ; Times: 7
+	Query: "Malacoctenus delalandii mappable:1" ; Times: 2
+	Query: "KU 17674" ; Times: 1
+	Query: "Raja inornata" ; Times: 1
+	Query: "Catostomus platyrhynchus" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 3
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "Coryphopterus personatus mappable:1" ; Times: 17
+	Query: "KU 21333" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 1
+	Query: "Aluterus schoepfii mappable:1" ; Times: 1
+	Query: "Anisotremus virginicus mappable:1" ; Times: 16
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Halichoeres poeyi mappable:1" ; Times: 3
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Priacanthus arenatus mappable:1" ; Times: 3
+	Query: "Cerdale floridana mappable:1" ; Times: 10
+	Query: "Diplectrum formosum mappable:1" ; Times: 2
+	Query: "masturus" ; Times: 1
+	Query: "Mycteroperca bonaci mappable:1" ; Times: 7
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "sebastes reedi" ; Times: 1
+	Query: "Abudefduf taurus mappable:1" ; Times: 2
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "KU 33044" ; Times: 2
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "genus:Hybognathus locality:Republican River stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Cardinalis cardinalis ku year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Ariomma bondi mappable:1" ; Times: 1
+	Query: "genus:Hybognathus locality:Republican River stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Bathyraja taranetzi" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 2
+	Query: "Thalassoma bifasciatum mappable:1" ; Times: 11
+	Query: "Hemitrygon akajei" ; Times: 1
+	Query: "specificepithet:placitus genus:Hybognathus locality:Big Blue River" ; Times: 1
+	Query: "Salmo trutta" ; Times: 5
+	Query: "18900" ; Times: 1
+	Query: "Haemulon parra mappable:1" ; Times: 14
+	Query: "stateprovince:&#34;Arizona&#34; country:&#34;United States of America&#34;" ; Times: 2
+	Query: "KU 29456" ; Times: 1
+	Query: "squalus acanthias" ; Times: 2
+	Query: "recordedby:Wiseman" ; Times: 1
+	Query: "31985" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 2
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Tetronarce californica" ; Times: 1
+	Query: "ku 17582" ; Times: 1
+	Query: "Okamejei meerdervoortii" ; Times: 1
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "Nezumia aequalis mappable:1" ; Times: 1
+	Query: "Bathyraja interrupta" ; Times: 1
+	Query: "Eridacnis radcliffei" ; Times: 1
+	Query: "Apristurus herklotsi" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 13
+	Query: "Haemulon plumieri mappable:1" ; Times: 1
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 21
+	Query: "Squalus suckleyi" ; Times: 1
+	Query: "Pomacanthus arcuatus mappable:1" ; Times: 3
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 2
+	Query: "Rypticus subbifrenatus mappable:1" ; Times: 2
+	Query: "Haemulon macrostomum mappable:1" ; Times: 14
+	Query: "Etmopterus splendidus" ; Times: 1
+	Query: "Anoxypristis cuspidata" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;Nevada&#34; country:&#34;United States of America&#34;" ; Times: 1
+	Query: "institutioncode:KU 3339" ; Times: 1
+	Query: "Squatina dumeril" ; Times: 1
+	Query: "ANSP 2842" ; Times: 1
+	Query: "Symphurus diomedeanus mappable:1" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 7
+	Query: "Monacanthus ciliatus mappable:1" ; Times: 3
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "Dipturus olseni" ; Times: 1
+	Query: "Nessorhamphus ingolfianus" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 1
+	Query: "erythrogaster AND (Phoxinus)" ; Times: 1
+	Query: "Chaetodon capistratus mappable:1" ; Times: 12
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 1
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "catalognumber:2894 institutioncode:KU" ; Times: 2
+	Query: "country:&#34;Marshall Islands&#34; institutioncode:KU" ; Times: 1
+	Query: "KU 21317" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 1
+	Query: "Crossorhombus kobensis" ; Times: 5
+	Query: "6 PERU" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 2
+	Query: "Trowbridge AND Island" ; Times: 1
+	Query: "ctenogobius sagittula" ; Times: 4
+	Query: "34176" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 7
+	Query: "Halichoeres garnoti mappable:1" ; Times: 11
+	Query: "Chaetodon sedentarius mappable:1" ; Times: 17
+	Query: "Dipturus kwangtungensis" ; Times: 1
+	Query: "Antennarius striatus mappable:1" ; Times: 1
+	Query: "Neotrygon kuhlii" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 2
+	Query: "Phaeoptyx conklini mappable:1" ; Times: 19
+	Query: "ku 24404" ; Times: 2
+	Query: "Peprilus paru mappable:1" ; Times: 1
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "Apteronotus albifrons" ; Times: 1
+	Query: "Stegastes planifrons mappable:1" ; Times: 3
+	Query: "Seriola zonata mappable:1" ; Times: 2
+	Query: "Scorpaena plumieri mappable:1" ; Times: 5
+	Query: "Hexagrammos lagocephalus" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 17
+	Query: "country:&#34;United States of America&#34;" ; Times: 1
+	Query: "Clepticus parrae mappable:1" ; Times: 11
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 3
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 3
+	Query: "Halichoeres pictus mappable:1" ; Times: 11
+	Query: "micropogonias furnieri" ; Times: 1
+	Query: "genus:Hybognathus locality:Republican River stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Narke japonica" ; Times: 1
+	Query: "Labrisomus nuchipinnis mappable:1" ; Times: 12
+	Query: "Serranus atrobranchus mappable:1" ; Times: 1
+	Query: "Serranus phoebe mappable:1" ; Times: 1
+	Query: "Lutjanus griseus mappable:1" ; Times: 10
+	Query: "Etelis" ; Times: 2
+	Query: "Balistes vetula mappable:1" ; Times: 20
+	Query: "Selene setapinnis mappable:1" ; Times: 2
+	Query: "Cephalopholis cruentata mappable:1" ; Times: 6
+	Query: "34885" ; Times: 1
+	Query: "Sargocentron vexillarium mappable:1" ; Times: 11
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "Galeus sauteri" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "kU 23654" ; Times: 1
+	Query: "Epinephelus adscensionis mappable:1" ; Times: 6
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 11
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "Ogcocephalus nasutus mappable:1" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 2
+	Query: "Trachinotus falcatus mappable:1" ; Times: 2
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 11
+	Query: "scarus ghobban" ; Times: 1
+	Query: "Rhomboplites aurorubens mappable:1" ; Times: 11
+	Query: "Centropomus ensiferus mappable:1" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34; country:&#34;United States of America&#34;" ; Times: 1
+	Query: "tnhc" ; Times: 1
+	Query: "Hyporthodus flavolimbatus mappable:1" ; Times: 2
+	Query: "Hypoplectrus unicolor mappable:1" ; Times: 6
+	Query: "Brotula barbata mappable:1" ; Times: 1
+	Query: "Gymnura marmorata" ; Times: 1
+	Query: "Apogon binotatus mappable:1" ; Times: 12
+	Query: "Apristurus brunneus" ; Times: 1
+	Query: "Selene vomer mappable:1" ; Times: 2
+	Query: "39672" ; Times: 1
+	Query: "Apogon maculatus mappable:1" ; Times: 20
+	Query: "Urotrygon rogersi" ; Times: 1
+	Query: "Sphyraena guachancho mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Raja stellulata" ; Times: 1
+	Query: "Archosargus rhomboidalis mappable:1" ; Times: 2
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "Jenkinsia lamprotaenia mappable:1" ; Times: 1
+	Query: "Kyphosus sectatrix mappable:1" ; Times: 11
+	Query: "Lobotes surinamensis mappable:1" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 19
+	Query: "(RMB) institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:Republican R stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Apristurus kampae" ; Times: 1
+	Query: "Caranx crysos mappable:1" ; Times: 2
+	Query: "Coryphopterus hyalinus mappable:1" ; Times: 12
+	Query: "Leucoraja garmani" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 12
+	Query: "Stegastes leucostictus mappable:1" ; Times: 3
+	Query: "Caranx ruber mappable:1" ; Times: 2
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:26956 institutioncode:KU" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 17
+	Query: "Lutjanus apodus mappable:1" ; Times: 11
+	Query: "scientificname:(Catostomus santaanae) country:United States mappable:1" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 2
+	Query: "Squaliolus aliae" ; Times: 1
+	Query: "Cheilopogon melanurus mappable:1" ; Times: 1
+	Query: "Exocoetus obtusirostris mappable:1" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 12
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "Pristipomoides aquilonaris mappable:1" ; Times: 2
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 2
+	Query: "Mustelus henlei" ; Times: 1
+	Query: "Oligoplites saurus mappable:1" ; Times: 2
+	Query: "Echeneis naucrates mappable:1" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "Serranus baldwini mappable:1" ; Times: 1
+	Query: "genus:Notropis county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:argyritis genus:Hybognathus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Acanthostracion polygonius mappable:1" ; Times: 3
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "Holocentrus rufus mappable:1" ; Times: 11
+	Query: "Albula vulpes mappable:1" ; Times: 1
+	Query: "Leucoraja erinacea" ; Times: 1
+	Query: "Squatina californica" ; Times: 1
+	Query: "15 PERU" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 10
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 22
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 940 download events in this period)
+Total number of records downloaded: 590
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-14 ; Times: 6
+	Date: 2019-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "stateprovince:&#34;Nevada&#34; country:&#34;United States of America&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; country:&#34;United States of America&#34;" ; Times: 2
+	Query: "scarus ghobban" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; country:&#34;United States of America&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34; country:&#34;United States of America&#34;" ; Times: 1
+	Query: "(RMB) institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.

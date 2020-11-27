@@ -1,0 +1,300 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 337
+Number of records retrieved in searches: 1226
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 5
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 163
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 14
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 10
+	Country: Hungary ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: New Zealand ; Times: 117
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 5
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-21 ; Times: 20
+	Date: 2019-10-20 ; Times: 8
+	Date: 2019-10-27 ; Times: 3
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 65
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 25
+	Date: 2019-10-02 ; Times: 5
+	Date: 2019-10-04 ; Times: 11
+	Date: 2019-10-07 ; Times: 12
+	Date: 2019-10-06 ; Times: 5
+	Date: 2019-10-23 ; Times: 70
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-29 ; Times: 3
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 3
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-16 ; Times: 16
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 6
+	Date: 2019-10-30 ; Times: 17
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 13
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-15 ; Times: 16
+	Date: 2019-10-28 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Etheostoma flabellare mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "(32834) institutioncode:KU" ; Times: 1
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Okamejei acutispina" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "KU 18130" ; Times: 3
+	Query: "Telatrygon zugei" ; Times: 2
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "(16315) institutioncode:KU" ; Times: 1
+	Query: "Coelorinchus caelorhincus" ; Times: 1
+	Query: "Chanos chanos vntype:specimen" ; Times: 1
+	Query: "aphos" ; Times: 1
+	Query: "12275 ku" ; Times: 2
+	Query: "vitreus Sander" ; Times: 2
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "Dipturus olseni" ; Times: 2
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "packard year &gt;= 1945 year &lt;= 1960 institutioncode:KU" ; Times: 1
+	Query: "Etmopterus molleri" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Hypanus say" ; Times: 2
+	Query: "Pervagor spilosoma mappable:1" ; Times: 2
+	Query: "Tetronarce californica" ; Times: 2
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "Cephaloscyllium ventriosum" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Chimaera jordani" ; Times: 1
+	Query: "Bathyraja maculata" ; Times: 1
+	Query: "Apristurus macrostomus" ; Times: 2
+	Query: "23763" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "KU 15882" ; Times: 2
+	Query: "Bathyraja parmifera" ; Times: 2
+	Query: "Hypanus sabinus" ; Times: 1
+	Query: "Hemitrygon bennettii" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Okamejei boesemani" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "Parmaturus xaniurus" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "Pseudobatos productus" ; Times: 2
+	Query: "Siphateles bicolor" ; Times: 1
+	Query: "(12043) institutioncode:KU" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "KU 38662" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "Engraulis eurystole" ; Times: 1
+	Query: "Squalus formosus" ; Times: 1
+	Query: "Mustelus canis" ; Times: 2
+	Query: "Atelomycterus macleayi" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "Bathyraja minispinosa" ; Times: 2
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "23630 KU" ; Times: 3
+	Query: "Aluterus heudelotii mappable:1" ; Times: 3
+	Query: "Beringraja" ; Times: 1
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "gonorynchiformes" ; Times: 1
+	Query: "KU 23651" ; Times: 6
+	Query: "country:&#34;Lebanon&#34;" ; Times: 1
+	Query: "Leucoraja erinacea" ; Times: 2
+	Query: "Fenestraja plutonia" ; Times: 1
+	Query: "Parakneria vntype:specimen" ; Times: 1
+	Query: "chanos chanos" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "Etheostoma rafinesquei" ; Times: 1
+	Query: "18130 KU" ; Times: 1
+	Query: "class:Actinopterygii locality:Terlingua Creek stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myoxocephalus quadricornis" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "(14624) institutioncode:KU" ; Times: 1
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 3
+	Query: "Chanos chanos vntype:specimen basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "catalognumber:35029 institutioncode:KU" ; Times: 2
+	Query: "Bathyraja" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "polypteriformes" ; Times: 1
+	Query: "catalognumber:10435 institutioncode:KU" ; Times: 2
+	Query: "ku 4686" ; Times: 1
+	Query: "Etheostoma fusiforme mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "Bathyraja taranetzi" ; Times: 2
+	Query: "Rhinobatos schlegelii" ; Times: 2
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "(28562) institutioncode:KU" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "11936 institutioncode:KU" ; Times: 1
+	Query: "Hemitrygon akajei" ; Times: 2
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "(18292) institutioncode:KU" ; Times: 3
+	Query: "distance(location,geopoint(34.3968331473169,-119.471169108105))&lt;269545.637102603" ; Times: 9
+	Query: "Platyrhinoidis triseriata" ; Times: 2
+	Query: "KU 5294" ; Times: 2
+	Query: "(1741) institutioncode:KU" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 10
+	Query: "Bathyraja interrupta" ; Times: 2
+	Query: "Eridacnis radcliffei" ; Times: 1
+	Query: "Leptostomias" ; Times: 1
+	Query: "notropis blennius" ; Times: 2
+	Query: "Squalus suckleyi" ; Times: 2
+	Query: "KU 23630" ; Times: 2
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Aluterus heudelotii" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Anoxypristis cuspidata" ; Times: 2
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Etmopterus splendidus" ; Times: 1
+	Query: "Miller AND BEnito" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "ku 1342" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 2
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "chanos chanos vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "chanos chanos vntype:specimen" ; Times: 1
+	Query: "Percina brevicauda" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "genus:Gobius" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "locality:Santa Cecilia country:&#34;Ecuador&#34; institutioncode:KU" ; Times: 1
+	Query: "18509" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "parakneria vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "Stephanolepis cirrhifer" ; Times: 2
+	Query: "5952" ; Times: 1
+	Query: "Bathyraja aleutica" ; Times: 2
+	Query: "catalognumber:31723 institutioncode:KU" ; Times: 2
+	Query: "anderson year &gt;= 1945 year &lt;= 1960 institutioncode:KU" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "Narke japonica" ; Times: 2
+	Query: "6985" ; Times: 3
+	Query: "Stephanolepis cirrhifer mappable:1" ; Times: 8
+	Query: "28676" ; Times: 1
+	Query: "(16071) institutioncode:KU" ; Times: 2
+	Query: "10492" ; Times: 2
+	Query: "Galeus sauteri" ; Times: 2
+	Query: "specificepithet:teddyroosevelt genus:Etheostoma" ; Times: 1
+	Query: "Okamejei meerdervoortii" ; Times: 1
+	Query: "Sander canadensis" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "Amblypharyngodon mola" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "chanos chanos vntype:specimen haslifestage:1" ; Times: 1
+	Query: "diplophos" ; Times: 2
+	Query: "12619" ; Times: 2
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "Apristurus kampae" ; Times: 1
+	Query: "asper Cottus" ; Times: 2
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Cottus bairdii mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Apristurus herklotsi" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "KU 22581" ; Times: 1
+	Query: "Urotrygon rogersi" ; Times: 1
+	Query: "Coelacanthiformes" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "Sphyrna tiburo" ; Times: 3
+	Query: "135675" ; Times: 1
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Beringraja binoculata" ; Times: 2
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "vntype:specimen (Phractolaemus)" ; Times: 1
+	Query: "class:Actinopterygii locality:Rio ramos country:&#34;México&#34;" ; Times: 1
+	Query: "Leucoraja garmani" ; Times: 2
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "cichla monoculus" ; Times: 1
+	Query: "Aluterus schoepfii mappable:1" ; Times: 4
+	Query: "Amblyraja radiata" ; Times: 2
+	Query: "19803" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "KU 39564" ; Times: 1
+	Query: "percina nasuta" ; Times: 2
+	Query: "Squaliolus aliae" ; Times: 1
+	Query: "27804 KU" ; Times: 1
+	Query: "Apristurus brunneus" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Mustelus henlei" ; Times: 2
+	Query: "Okamejei hollandi" ; Times: 2
+	Query: "Dipturus kwangtungensis" ; Times: 2
+	Query: "Etheostoma caeruleum mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "platypus" ; Times: 6
+	Query: "10495" ; Times: 2
+	Query: "specificepithet:teddyroosevelt genus:Etheostoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "Squatina californica" ; Times: 2
+	Query: "Neotrygon kuhlii" ; Times: 2
+	Query: "Myliobatis freminvillei" ; Times: 2
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1308 download events in this period)
+Total number of records downloaded: 190
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 8
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-28 ; Times: 5
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "genus:Gobius" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "chanos chanos vntype:specimen haslifestage:1" ; Times: 2
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "Chanos chanos vntype:specimen basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "country:&#34;india&#34;" ; Times: 1
+
+
+End of report.

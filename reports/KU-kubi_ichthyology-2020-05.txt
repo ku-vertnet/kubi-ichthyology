@@ -1,0 +1,201 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 176
+Number of records retrieved in searches: 889
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 8
+	Country: Ireland ; Times: 25
+	Country: Mexico ; Times: 5
+	Country: Panama ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 75
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 4
+	Country: Hong Kong ; Times: 38
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 11
+	Date: 2020-05-27 ; Times: 10
+	Date: 2020-05-26 ; Times: 3
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-29 ; Times: 4
+	Date: 2020-05-28 ; Times: 30
+	Date: 2020-05-18 ; Times: 6
+	Date: 2020-05-19 ; Times: 8
+	Date: 2020-05-10 ; Times: 15
+	Date: 2020-05-11 ; Times: 4
+	Date: 2020-05-12 ; Times: 7
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-15 ; Times: 5
+	Date: 2020-05-17 ; Times: 4
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-06 ; Times: 23
+	Date: 2020-05-04 ; Times: 5
+	Date: 2020-05-02 ; Times: 11
+	Date: 2020-05-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "ku 15583" ; Times: 2
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 2
+	Query: "36580" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "KUBI 1607" ; Times: 2
+	Query: "KUBI 1609" ; Times: 4
+	Query: "KUBI 1608" ; Times: 4
+	Query: "Samariscus filipectoralis" ; Times: 4
+	Query: "scientificname:(Etheostoma tetrazonum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus euryzonus) country:United States mappable:1" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "6363 ku" ; Times: 2
+	Query: "28960" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;Argentina&#34;" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "KU 11150" ; Times: 2
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "KUBI 1612" ; Times: 13
+	Query: "KUBI 1613" ; Times: 3
+	Query: "KUBI 1610" ; Times: 2
+	Query: "KUBI 86244" ; Times: 2
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "catalognumber:5336 institutioncode:KU" ; Times: 1
+	Query: "genus:Gila stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "24183" ; Times: 1
+	Query: "county:&#34;Panama&#34;" ; Times: 2
+	Query: "scientificname:(Percina aurora) country:United States mappable:1" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "16461 institutioncode:KU" ; Times: 2
+	Query: "scientificname:(Notropis rafinesquei) country:United States mappable:1" ; Times: 1
+	Query: "KU 8577" ; Times: 2
+	Query: "20262 institutioncode:KU" ; Times: 3
+	Query: "KUBI 1437" ; Times: 2
+	Query: "ku 21289" ; Times: 2
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "KU 20893" ; Times: 2
+	Query: "KU 18001" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "Aramberri" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "scientificname:(Etheostoma zonistium) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "12267 institutioncode:KU" ; Times: 1
+	Query: "fieldnumber:GTS" ; Times: 1
+	Query: "KU 21590" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "scientificname:(Notropis sabinae) country:United States mappable:1" ; Times: 2
+	Query: "catalognumber:6679 institutioncode:KU" ; Times: 2
+	Query: "12803 institutioncode:KU" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "scientificname:(Etheostoma nianguae) country:United States mappable:1" ; Times: 1
+	Query: "county:&#34;Franklin&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "catalognumber:13601 institutioncode:KU" ; Times: 2
+	Query: "Cope Collection." ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "catalognumber:5605 institutioncode:KU" ; Times: 2
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "Eucinostomus currani" ; Times: 1
+	Query: "stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "locality:James stateprovince:&#34;Galapagos&#34;" ; Times: 1
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "KU 815" ; Times: 1
+	Query: "scientificname:(Etheostoma whipplei OR Etheostoma whipplii) country:United States mappable:1" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "institutioncode:KU turtle" ; Times: 2
+	Query: "poeciliopsis occidentalis" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "catalognumber:7140 institutioncode:KU" ; Times: 3
+	Query: "38568" ; Times: 1
+	Query: "2003–062" ; Times: 2
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "KU 20172" ; Times: 2
+	Query: "KU 22064" ; Times: 2
+	Query: "poeciliopsis" ; Times: 1
+	Query: "chromobotia macracanthus" ; Times: 5
+	Query: "akers" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "scientificname:(Noturus phaeus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:13600 institutioncode:KU" ; Times: 2
+	Query: "marinus texas" ; Times: 1
+	Query: "KU 6676" ; Times: 1
+	Query: "neolissochilus hexagonolepis" ; Times: 1
+	Query: "corvula batabana" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "catalognumber:7139 institutioncode:KU" ; Times: 1
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "catalognumber:13602 institutioncode:KU" ; Times: 3
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "scientificname:(Noturus hildebrandi) country:United States mappable:1" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "scientificname:(Etheostoma rubrum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma euzonum) country:United States mappable:1" ; Times: 1
+	Query: "KUBI 31747" ; Times: 5
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1106 download events in this period)
+Total number of records downloaded: 681
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aramberri" ; Times: 1
+	Query: "county:&#34;Panama&#34;" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Catostomus" ; Times: 1
+
+
+End of report.

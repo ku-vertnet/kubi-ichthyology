@@ -1,0 +1,219 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 182
+Number of records retrieved in searches: 820
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 139
+	Country: Australia ; Times: 3
+	Country: Cuba ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 12
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 4
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-31 ; Times: 18
+	Date: 2020-03-02 ; Times: 11
+	Date: 2020-03-18 ; Times: 9
+	Date: 2020-03-19 ; Times: 4
+	Date: 2020-03-16 ; Times: 13
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 6
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-10 ; Times: 4
+	Date: 2020-03-11 ; Times: 4
+	Date: 2020-03-17 ; Times: 4
+	Date: 2020-03-27 ; Times: 4
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 14
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-23 ; Times: 17
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-05 ; Times: 11
+	Date: 2020-03-04 ; Times: 7
+	Date: 2020-03-07 ; Times: 2
+	Date: 2020-03-06 ; Times: 22
+	Date: 2020-03-03 ; Times: 11
+	Date: 2020-03-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "36879" ; Times: 2
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "scardinius erythrophthalmus" ; Times: 2
+	Query: "40413" ; Times: 3
+	Query: "Atherinomorus lacunosus mappable:1" ; Times: 2
+	Query: "(663)" ; Times: 1
+	Query: "macrhybopsis etnieri" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "macrhybopsis boschungi" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "Cyphocharax magdalenae" ; Times: 1
+	Query: "Scarus ghobban mappable:1" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "Chlorurus sordidus mappable:1" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "R.39075" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "specificepithet:punctatus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:1201 institutioncode:KU" ; Times: 1
+	Query: "marmoreus" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;monterey&#34;" ; Times: 1
+	Query: "catalognumber:2008 institutioncode:KU" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "Styracura schmardae" ; Times: 2
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "catalognumber:8417 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:11925 institutioncode:KU" ; Times: 1
+	Query: "Atherinomorus vaigiensis mappable:1" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "Scarus iseri mappable:1" ; Times: 1
+	Query: "mola mola" ; Times: 1
+	Query: "Macrhybopsis tetranema" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "RHB" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "catalognumber:35531 institutioncode:KU" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 5
+	Query: "&#34;Muelle de Los Bueyes&#34;" ; Times: 2
+	Query: "Percina lenticula" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "mappable:1 year&gt;=1979 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "genus:cyprinodon rubrofluviatilis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Scarus coeruleus mappable:1" ; Times: 2
+	Query: "catalognumber:24796 institutioncode:KU" ; Times: 4
+	Query: "macrhybopsis gelida" ; Times: 2
+	Query: "fossil" ; Times: 1
+	Query: "Siganus rivulatus mappable:1" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "chilodus" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "catalognumber:1425 institutioncode:KU" ; Times: 2
+	Query: "14984" ; Times: 1
+	Query: "Astronotus" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Macrhybopsis tomellerii" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "Sardinella maderensis" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "cobitis taenia" ; Times: 2
+	Query: "(16380)" ; Times: 1
+	Query: "Gambusia yucatana" ; Times: 1
+	Query: "catalognumber:24643 institutioncode:KU" ; Times: 3
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 8
+	Query: "macrhybopsis pallida" ; Times: 1
+	Query: "Hipposcarus longiceps mappable:1" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "Ichthyoelephas humeralis" ; Times: 2
+	Query: "21449" ; Times: 1
+	Query: "Chapalichthys" ; Times: 3
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "balitora" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "catalognumber:15104 institutioncode:KU" ; Times: 1
+	Query: "(15209)" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "locality:Rio Verde. " ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "catalognumber:28197 institutioncode:KU" ; Times: 2
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "Macrhybopsis storeriana" ; Times: 3
+	Query: "31896" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "ku 18643" ; Times: 1
+	Query: "Rhadinocentrus ornatus mappable:1" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "Macrhybopsis pallida" ; Times: 1
+	Query: "catalognumber:13408 institutioncode:KU" ; Times: 1
+	Query: "fieldnumber:69001" ; Times: 1
+	Query: "Gambusia nicaraguensis" ; Times: 2
+	Query: "catalognumber:27378 institutioncode:KU" ; Times: 1
+	Query: "&#34;Barbatula barbatula&#34;" ; Times: 2
+	Query: "27757" ; Times: 1
+	Query: "Macrhybopsis meeki" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "genus:Trinectes maculatus hasmedia:1" ; Times: 1
+	Query: "catalognumber:1576 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:9895 institutioncode:KU" ; Times: 1
+	Query: "32113" ; Times: 1
+	Query: "PAM 212" ; Times: 1
+	Query: "130611" ; Times: 1
+	Query: "Scarus dubius mappable:1" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "Pethia conchonius" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "8461 institutioncode:KU" ; Times: 1
+	Query: "13715" ; Times: 4
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "catalognumber:1459 institutioncode:KU" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "127162" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "locality:Rio Blanco " ; Times: 1
+	Query: "chromobotia" ; Times: 1
+	Query: "catalognumber:3984 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:6651 institutioncode:KU" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "Craterocephalus honoriae mappable:1" ; Times: 2
+	Query: "5294 KU" ; Times: 1
+	Query: "genus:cyprinodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Chapalichthys pardalis" ; Times: 1
+	Query: "australoheros facetus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 853 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Cuba ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macrhybopsis boschungi" ; Times: 1
+	Query: "Gambusia nicaraguensis" ; Times: 1
+	Query: "chilodus" ; Times: 1
+	Query: "australoheros facetus" ; Times: 1
+	Query: "cobitis taenia" ; Times: 1
+	Query: "Gambusia yucatana" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+	Query: "&#34;Barbatula barbatula&#34;" ; Times: 1
+
+
+End of report.

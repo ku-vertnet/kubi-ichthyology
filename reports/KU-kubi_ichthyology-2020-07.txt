@@ -1,0 +1,463 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 593
+Number of records retrieved in searches: 2140
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Qatar ; Times: 1
+	Country: Australia ; Times: 8
+	Country: Honduras ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 21
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 389
+	Country: United States ; Times: 84
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 5
+	Country: Ireland ; Times: 64
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 7
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 16
+	Date: 2020-07-20 ; Times: 7
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 6
+	Date: 2020-07-01 ; Times: 3
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 36
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-07 ; Times: 403
+	Date: 2020-07-06 ; Times: 29
+	Date: 2020-07-24 ; Times: 15
+	Date: 2020-07-29 ; Times: 7
+	Date: 2020-07-19 ; Times: 12
+	Date: 2020-07-13 ; Times: 9
+	Date: 2020-07-10 ; Times: 4
+	Date: 2020-07-11 ; Times: 4
+	Date: 2020-07-16 ; Times: 10
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-28 ; Times: 5
+	Date: 2020-07-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Starksia ocellata mappable:1" ; Times: 2
+	Query: "KU 18039" ; Times: 2
+	Query: "Entomacrodus nigricans mappable:1" ; Times: 3
+	Query: "ku 12395" ; Times: 1
+	Query: "Calamus calamus mappable:1" ; Times: 2
+	Query: "Diodon holocanthus mappable:1" ; Times: 2
+	Query: "Dibranchus atlanticus mappable:1" ; Times: 1
+	Query: "1366 institutioncode:KU" ; Times: 1
+	Query: "Eurypharynx pelecanoides mappable:1" ; Times: 1
+	Query: "KU 32425" ; Times: 2
+	Query: "32839" ; Times: 1
+	Query: "Calamus pennatula mappable:1" ; Times: 2
+	Query: "Strongylura timucu mappable:1" ; Times: 1
+	Query: "Lactophrys bicaudalis mappable:1" ; Times: 2
+	Query: "catalognumber:7478 institutioncode:KU" ; Times: 1
+	Query: "Ophidion holbrookii mappable:1" ; Times: 2
+	Query: "ku texas fundulus grandis" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Malacoctenus versicolor mappable:1" ; Times: 2
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Gobioides broussonnetii mappable:1" ; Times: 3
+	Query: "Diaphus garmani mappable:1" ; Times: 1
+	Query: "Synodus poeyi mappable:1" ; Times: 1
+	Query: "Mustelus canis mappable:1" ; Times: 1
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 2
+	Query: "KU 32869" ; Times: 2
+	Query: "KU 4996" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 2
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "KU 19664" ; Times: 2
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "KU 28606" ; Times: 1
+	Query: "KU 23345" ; Times: 2
+	Query: "fossil" ; Times: 1
+	Query: "catalognumber:32819 institutioncode:KU" ; Times: 1
+	Query: "Ahlia egmontis mappable:1" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 3
+	Query: "benthosema pterotum" ; Times: 2
+	Query: "Priacanthus arenatus mappable:1" ; Times: 2
+	Query: "Diplectrum formosum mappable:1" ; Times: 1
+	Query: "KU 15377" ; Times: 2
+	Query: "Styracura schmardae mappable:1" ; Times: 3
+	Query: "country:&#34;indonesia&#34; institutioncode:KU" ; Times: 1
+	Query: "Acanthostracion polygonius mappable:1" ; Times: 2
+	Query: "Selene vomer mappable:1" ; Times: 1
+	Query: "Thalassoma bifasciatum mappable:1" ; Times: 2
+	Query: "Serranus baldwini mappable:1" ; Times: 1
+	Query: "Cycleptus elongatus" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "Callionymus bairdi mappable:1" ; Times: 1
+	Query: "Lutjanus synagris mappable:1" ; Times: 2
+	Query: "KU 14052" ; Times: 2
+	Query: "Selene setapinnis mappable:1" ; Times: 1
+	Query: "Echeneis neucratoides mappable:1" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 1
+	Query: "KU 8495" ; Times: 2
+	Query: "Neoscopelus microchir mappable:1" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Chaetodon capistratus mappable:1" ; Times: 2
+	Query: "KU 21629" ; Times: 2
+	Query: "Coelorinchus caribbaeus mappable:1" ; Times: 1
+	Query: "Peprilus paru mappable:1" ; Times: 1
+	Query: "Eucinostomus gula mappable:1" ; Times: 3
+	Query: "Scorpaena plumieri mappable:1" ; Times: 2
+	Query: "KU 34252" ; Times: 2
+	Query: "Halichoeres pictus mappable:1" ; Times: 2
+	Query: "specificepithet:bifascia genus:Ammocrypta stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 2
+	Query: "Haemulon plumierii mappable:1" ; Times: 2
+	Query: "Stephanolepis hispidus mappable:1" ; Times: 1
+	Query: "mykiss" ; Times: 2
+	Query: "Epinephelus adscensionis mappable:1" ; Times: 2
+	Query: "KU 15756" ; Times: 2
+	Query: "KU 17777" ; Times: 2
+	Query: "Clepticus parrae mappable:1" ; Times: 2
+	Query: "28567" ; Times: 1
+	Query: "Ctenogobius boleosoma mappable:1" ; Times: 3
+	Query: "Hypoplectrus unicolor mappable:1" ; Times: 2
+	Query: "ku texas cyprinodon variegatus" ; Times: 1
+	Query: "Apsilus dentatus mappable:1" ; Times: 1
+	Query: "Corvula batabana mappable:1" ; Times: 1
+	Query: "Trachinocephalus myops mappable:1" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "eglanteria" ; Times: 1
+	Query: "Caranx crysos mappable:1" ; Times: 1
+	Query: "KU 14223" ; Times: 2
+	Query: "KU 14222" ; Times: 2
+	Query: "Lepophidium brevibarbe mappable:1" ; Times: 1
+	Query: "Paralichthys dentatus mappable:1" ; Times: 3
+	Query: "Lutjanus apodus mappable:1" ; Times: 2
+	Query: "Phtheirichthys lineatus mappable:1" ; Times: 1
+	Query: "Plectrypops retrospinis mappable:1" ; Times: 2
+	Query: "Lactophrys trigonus mappable:1" ; Times: 2
+	Query: "21099" ; Times: 1
+	Query: "areolatus" ; Times: 1
+	Query: "scardinius" ; Times: 1
+	Query: "Trachinotus falcatus mappable:1" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 1
+	Query: "genus:Ammocrypta stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "KU 33806" ; Times: 1
+	Query: "Gobiomorus dormitor mappable:1" ; Times: 3
+	Query: "locality:Big Escambia Creek county:&#34;Escambia&#34; stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "KU 17746" ; Times: 2
+	Query: "Syacium micrurum mappable:1" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "Malacanthus plumieri mappable:1" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "Scopeloberyx opisthopterus mappable:1" ; Times: 1
+	Query: "Ogcocephalus radiatus mappable:1" ; Times: 2
+	Query: "Polymixia nobilis mappable:1" ; Times: 1
+	Query: "Hyporthodus flavolimbatus mappable:1" ; Times: 1
+	Query: "Antennarius multiocellatus mappable:1" ; Times: 2
+	Query: "Labrisomus nuchipinnis mappable:1" ; Times: 2
+	Query: "KU 7868" ; Times: 2
+	Query: "catalognumber:1310 institutioncode:KU" ; Times: 1
+	Query: "Napo Ecuador" ; Times: 1
+	Query: "Brazil Camanaos Rio negro" ; Times: 1
+	Query: "Jasper County Missouri" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "Sphoeroides nephelus mappable:1" ; Times: 2
+	Query: "KU 31594" ; Times: 2
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Polymixia lowei mappable:1" ; Times: 1
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 2
+	Query: "ku 33255" ; Times: 2
+	Query: "Echeneis naucrates mappable:1" ; Times: 1
+	Query: "Bathophilus digitatus mappable:1" ; Times: 1
+	Query: "Halichoeres bivittatus mappable:1" ; Times: 2
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 1
+	Query: "Equetus punctatus mappable:1" ; Times: 2
+	Query: "genus:Hiodon" ; Times: 2
+	Query: "23631 KU" ; Times: 2
+	Query: "Hypanus say mappable:1" ; Times: 3
+	Query: "KU 4987" ; Times: 2
+	Query: "Coryphopterus personatus mappable:1" ; Times: 2
+	Query: "locality:Sipsey county:&#34;Tuscaloosa&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Pristipomoides aquilonaris mappable:1" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "Cerdale floridana mappable:1" ; Times: 2
+	Query: "Antennarius striatus mappable:1" ; Times: 1
+	Query: "Abudefduf taurus mappable:1" ; Times: 2
+	Query: "Boquete chiriqui" ; Times: 1
+	Query: "Bembrops gobioides mappable:1" ; Times: 1
+	Query: "etheostoma radiosum" ; Times: 1
+	Query: "etelis coruscans" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Nezumia aequalis mappable:1" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 1
+	Query: "Stegastes partitus mappable:1" ; Times: 2
+	Query: "Evorthodus lyricus mappable:1" ; Times: 3
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 2
+	Query: "KU 11263" ; Times: 1
+	Query: "Halichoeres caudalis mappable:1" ; Times: 2
+	Query: "Chlorophthalmus agassizi mappable:1" ; Times: 1
+	Query: "specificepithet:occidentalis" ; Times: 1
+	Query: "Haemulon macrostomum mappable:1" ; Times: 2
+	Query: "Etropus rimosus mappable:1" ; Times: 1
+	Query: "William E. Duellman" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 1
+	Query: "Cheilopogon heterurus mappable:1" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Clupea harengus" ; Times: 3
+	Query: "Halichoeres garnoti mappable:1" ; Times: 2
+	Query: "Lates niloticus" ; Times: 2
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 2
+	Query: "Pethia" ; Times: 6
+	Query: "KU 17707" ; Times: 2
+	Query: "Sargocentron vexillarium mappable:1" ; Times: 2
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 3
+	Query: "Boquete Chiriqui" ; Times: 1
+	Query: "Ogcocephalus nasutus mappable:1" ; Times: 1
+	Query: "Centropomus ensiferus mappable:1" ; Times: 3
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "Apogon quadrisquamatus mappable:1" ; Times: 2
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "Gadus" ; Times: 2
+	Query: "Apogon binotatus mappable:1" ; Times: 2
+	Query: "KU 24437" ; Times: 1
+	Query: "KU 2075" ; Times: 1
+	Query: "Stegastes leucostictus mappable:1" ; Times: 2
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 2
+	Query: "Oligoplites saurus mappable:1" ; Times: 1
+	Query: "Stegastes planifrons mappable:1" ; Times: 2
+	Query: "Bothus robinsi mappable:1" ; Times: 2
+	Query: "Holocentrus rufus mappable:1" ; Times: 2
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 3
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 2
+	Query: "Sardinella aurita mappable:1" ; Times: 1
+	Query: "ku 14015" ; Times: 1
+	Query: "histiopterus typus" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 1
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 1
+	Query: "KU 12633" ; Times: 2
+	Query: "KU 12634" ; Times: 2
+	Query: "Scartella cristata mappable:1" ; Times: 3
+	Query: "Bullisichthys caribbaeus mappable:1" ; Times: 1
+	Query: "ku 17751" ; Times: 1
+	Query: "Ophichthus gomesii mappable:1" ; Times: 1
+	Query: "texas cyprinodon variegatus" ; Times: 1
+	Query: "Sphoeroides testudineus mappable:1" ; Times: 2
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "recordedby:bristow" ; Times: 1
+	Query: "KU 23851" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "KU 19907" ; Times: 2
+	Query: "Gymnothorax moringa mappable:1" ; Times: 1
+	Query: "Howella brodiei mappable:1" ; Times: 1
+	Query: "Lutjanus jocu mappable:1" ; Times: 2
+	Query: "13222" ; Times: 1
+	Query: "Trachinotus carolinus mappable:1" ; Times: 1
+	Query: "specificepithet:radiosum genus:etheostoma" ; Times: 2
+	Query: "Equetus lanceolatus mappable:1" ; Times: 2
+	Query: "Chaetodon striatus mappable:1" ; Times: 2
+	Query: "Symphurus plagiusa mappable:1" ; Times: 2
+	Query: "KU 10313" ; Times: 2
+	Query: "ancistrus" ; Times: 1
+	Query: "KU 23326" ; Times: 2
+	Query: "KU 23325" ; Times: 2
+	Query: "KU 23320" ; Times: 2
+	Query: "Doratonotus megalepis mappable:1" ; Times: 1
+	Query: "Psenes cyanophrys mappable:1" ; Times: 1
+	Query: "KU 15678" ; Times: 2
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 2
+	Query: "fm bailey" ; Times: 1
+	Query: "Rypticus subbifrenatus mappable:1" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 2
+	Query: "Remora osteochir mappable:1" ; Times: 1
+	Query: "Symphurus diomedeanus mappable:1" ; Times: 1
+	Query: "Tomicodon fasciatus mappable:1" ; Times: 3
+	Query: "Tigrigobius macrodon mappable:1" ; Times: 2
+	Query: "KU 29500" ; Times: 4
+	Query: "KU 29501" ; Times: 2
+	Query: "KU 29502" ; Times: 1
+	Query: "catalognumber:3230 institutioncode:KU" ; Times: 1
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 1
+	Query: "Cephalopholis argus mappable:1" ; Times: 2
+	Query: "19825" ; Times: 1
+	Query: "Phaeoptyx conklini mappable:1" ; Times: 2
+	Query: "Seriola zonata mappable:1" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 2
+	Query: "Lutjanus griseus mappable:1" ; Times: 2
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 2
+	Query: "Balistes vetula mappable:1" ; Times: 2
+	Query: "Cephalopholis cruentata mappable:1" ; Times: 2
+	Query: "catalognumber:7111 institutioncode:KU" ; Times: 1
+	Query: "ku 27232" ; Times: 1
+	Query: "KU 12319" ; Times: 2
+	Query: "KU 12317" ; Times: 2
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Micropogonias undulatus mappable:1" ; Times: 1
+	Query: "Lophogobius cyprinoides mappable:1" ; Times: 3
+	Query: "Barbacoas colombia" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 3
+	Query: "KU 15507" ; Times: 2
+	Query: "23630" ; Times: 1
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Villavicencio" ; Times: 1
+	Query: "Dormitator maculatus mappable:1" ; Times: 3
+	Query: "Archosargus rhomboidalis mappable:1" ; Times: 2
+	Query: "Ostichthys trachypoma mappable:1" ; Times: 2
+	Query: "Jenkinsia lamprotaenia mappable:1" ; Times: 1
+	Query: "Etropus crossotus mappable:1" ; Times: 1
+	Query: "Coryphopterus hyalinus mappable:1" ; Times: 2
+	Query: "Haemulon striatum mappable:1" ; Times: 2
+	Query: "Acropoma" ; Times: 1
+	Query: "Aluterus schoepfii mappable:1" ; Times: 1
+	Query: "Pomacanthus arcuatus mappable:1" ; Times: 2
+	Query: "Halichoeres bathyphilus mappable:1" ; Times: 2
+	Query: "Chaetodon sedentarius mappable:1" ; Times: 2
+	Query: "Exocoetus obtusirostris mappable:1" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 2
+	Query: "Halichoeres radiatus mappable:1" ; Times: 2
+	Query: "Sphyraena guachancho mappable:1" ; Times: 1
+	Query: "Pareques acuminatus mappable:1" ; Times: 2
+	Query: "Poecilia sphenops mappable:1" ; Times: 2
+	Query: "Diplectrum bivittatum mappable:1" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 2
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "Chromis enchrysura mappable:1" ; Times: 2
+	Query: "Scomberomorus regalis mappable:1" ; Times: 1
+	Query: "Seriola dumerili mappable:1" ; Times: 1
+	Query: "23690 KU" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 3
+	Query: "Scomberomorus cavalla mappable:1" ; Times: 1
+	Query: "Echidna catenata mappable:1" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "Rio Tuyra" ; Times: 2
+	Query: "Scorpaena brasiliensis mappable:1" ; Times: 1
+	Query: "Parablennius marmoreus mappable:1" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 2
+	Query: "19863" ; Times: 1
+	Query: "Nomeus gronovii mappable:1" ; Times: 1
+	Query: "Aluterus scriptus mappable:1" ; Times: 2
+	Query: "locality:foster fish" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 2
+	Query: "Scarus iseri mappable:1" ; Times: 2
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Decodon puellaris mappable:1" ; Times: 1
+	Query: "Halichoeres cyanocephalus mappable:1" ; Times: 2
+	Query: "catalognumber:7635 institutioncode:KU" ; Times: 2
+	Query: "Kajikia albida mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "Apogon planifrons mappable:1" ; Times: 2
+	Query: "KU 32481" ; Times: 2
+	Query: "Decapterus punctatus mappable:1" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 3
+	Query: "ku 15931" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "river Chiriqui" ; Times: 1
+	Query: "Sphyrna tiburo mappable:1" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 2
+	Query: "Caranx hippos mappable:1" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 2
+	Query: "Scarus coeruleus mappable:1" ; Times: 2
+	Query: "28482" ; Times: 1
+	Query: "KU 28578" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Melanorhinus microps mappable:1" ; Times: 1
+	Query: "locality:YEPOMERA" ; Times: 1
+	Query: "Anisotremus virginicus mappable:1" ; Times: 2
+	Query: "Halichoeres poeyi mappable:1" ; Times: 1
+	Query: "Bothus ocellatus mappable:1" ; Times: 2
+	Query: "Mycteroperca bonaci mappable:1" ; Times: 2
+	Query: "Ariomma bondi mappable:1" ; Times: 1
+	Query: "Chaetodipterus faber mappable:1" ; Times: 3
+	Query: "KU 8646" ; Times: 1
+	Query: "Cheilopogon melanurus mappable:1" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "pethia" ; Times: 3
+	Query: "Istiophoridae" ; Times: 1
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "Ophichthus cruentifer mappable:1" ; Times: 1
+	Query: "Lobotes surinamensis mappable:1" ; Times: 1
+	Query: "KU 23339" ; Times: 2
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 1
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 2
+	Query: "ku 19966" ; Times: 1
+	Query: "mico" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 1
+	Query: "Serranus atrobranchus mappable:1" ; Times: 1
+	Query: "Serranus phoebe mappable:1" ; Times: 1
+	Query: "KU 18181" ; Times: 2
+	Query: "Lepidomeda vittata" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 1
+	Query: "Cyprinodon variegatus mappable:1" ; Times: 1
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 1
+	Query: "Myrophis platyrhynchus mappable:1" ; Times: 3
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "Scophthalmus aquosus mappable:1" ; Times: 3
+	Query: "Rhomboplites aurorubens mappable:1" ; Times: 1
+	Query: "Caranx ruber mappable:1" ; Times: 1
+	Query: "Kyphosus sectatrix mappable:1" ; Times: 2
+	Query: "Brotula barbata mappable:1" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 2
+	Query: "KU 12806" ; Times: 2
+	Query: "Caranx sexfasciatus mappable:1" ; Times: 1
+	Query: "specificepithet:radiosum genus:Etheostoma" ; Times: 1
+	Query: "23630 KU" ; Times: 2
+	Query: "KU 4092" ; Times: 2
+	Query: "rio cope" ; Times: 1
+	Query: "Haemulon parra mappable:1" ; Times: 2
+	Query: "27947" ; Times: 1
+	Query: "Campeche" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 3
+	Query: "31031" ; Times: 1
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 940 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "locality:Sipsey county:&#34;Tuscaloosa&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+
+
+End of report.

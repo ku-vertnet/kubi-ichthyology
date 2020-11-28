@@ -1,0 +1,258 @@
+Report for Institution Code KU, Resource kubi_ichthyology
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 215
+Number of records retrieved in searches: 592
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Denmark ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 115
+	Country: United States ; Times: 52
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 8
+	Country: Belgium ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-08 ; Times: 3
+	Date: 2020-09-03 ; Times: 5
+	Date: 2020-09-02 ; Times: 3
+	Date: 2020-09-01 ; Times: 5
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-04 ; Times: 15
+	Date: 2020-09-21 ; Times: 8
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-23 ; Times: 6
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-14 ; Times: 7
+	Date: 2020-09-15 ; Times: 11
+	Date: 2020-09-16 ; Times: 24
+	Date: 2020-09-17 ; Times: 30
+	Date: 2020-09-10 ; Times: 16
+	Date: 2020-09-11 ; Times: 15
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 4
+	Date: 2020-09-18 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "32708" ; Times: 3
+	Query: "Parral Chihuahua" ; Times: 1
+	Query: "C.G. Harold" ; Times: 1
+	Query: "Petromyzon marinus" ; Times: 1
+	Query: "Kyphosus sectatrix" ; Times: 1
+	Query: "scientificname:Engraulis ringens" ; Times: 3
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "Seriola dumerili" ; Times: 1
+	Query: "Acheilognathus macropterus" ; Times: 1
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "Pampus argenteus" ; Times: 1
+	Query: "RMB 1784" ; Times: 1
+	Query: "nigger creek" ; Times: 2
+	Query: "Platax teira" ; Times: 1
+	Query: "UMMZ" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Cheilopogon furcatus" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "Argyropelecus hemigymnus" ; Times: 1
+	Query: "KU 18147" ; Times: 1
+	Query: "Ceratoscopelus maderensis" ; Times: 1
+	Query: "ameiurus melas" ; Times: 1
+	Query: "Nemipterus japonicus" ; Times: 1
+	Query: "Scartella cristata" ; Times: 1
+	Query: "scientificname:Vinciguerria lucetia" ; Times: 2
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "Synagrops japonicus" ; Times: 1
+	Query: "KU 32649" ; Times: 1
+	Query: "Atherinopsis californiensis" ; Times: 5
+	Query: "KU 31504" ; Times: 1
+	Query: "Vinciguerria poweriae" ; Times: 1
+	Query: "Myxine glutinosa" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "balleza" ; Times: 1
+	Query: "Sphoeroides spengleri" ; Times: 1
+	Query: "KU 5133" ; Times: 1
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "Epinephelus aeneus" ; Times: 4
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "Lobianchia gemellarii" ; Times: 1
+	Query: "Saurida undosquamis" ; Times: 1
+	Query: "Lampanyctus pusillus" ; Times: 1
+	Query: "Alectis alexandrina" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "Trachurus mediterraneus" ; Times: 8
+	Query: "Pelates quadrilineatus" ; Times: 1
+	Query: "corydoras hastatus" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "KU 19066" ; Times: 1
+	Query: "Tabasco" ; Times: 2
+	Query: "16892" ; Times: 1
+	Query: "Hemiramphus far" ; Times: 1
+	Query: "Pomadasys incisus" ; Times: 1
+	Query: "Solea solea" ; Times: 3
+	Query: "Remora remora" ; Times: 1
+	Query: "recordedby:Matthews" ; Times: 2
+	Query: "Mustelus mustelus" ; Times: 1
+	Query: "Cyclopterus lumpus" ; Times: 1
+	Query: "Characidium fasciatum" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "tabasco" ; Times: 3
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Epinephelus fasciatus" ; Times: 1
+	Query: "KU 10313" ; Times: 1
+	Query: "Lobotes surinamensis" ; Times: 1
+	Query: "KU 5588" ; Times: 1
+	Query: "Diplodus cervinus" ; Times: 1
+	Query: "Sardinella maderensis" ; Times: 1
+	Query: "Apogon imberbis" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "Iotichthys phlegethontis" ; Times: 1
+	Query: "16649" ; Times: 1
+	Query: "Leuresthes tenuis" ; Times: 6
+	Query: "Zenopsis conchifer" ; Times: 1
+	Query: "Ichthyococcus ovatus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Beryx splendens" ; Times: 2
+	Query: "Cyclothone braueri" ; Times: 1
+	Query: "parral" ; Times: 1
+	Query: "Benthosema glaciale" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "Chrysiptera brownriggii" ; Times: 1
+	Query: "tuxpan veracruz" ; Times: 1
+	Query: "catalognumber:4970 institutioncode:KU" ; Times: 1
+	Query: "KU 11263" ; Times: 1
+	Query: "Parexocoetus mento" ; Times: 1
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Caranx rhonchus" ; Times: 1
+	Query: "Atherinomorus lacunosus" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Siganus rivulatus" ; Times: 1
+	Query: "Pagrus caeruleostictus" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Sardinella aurita" ; Times: 1
+	Query: "KU 26688" ; Times: 1
+	Query: "KU 33106" ; Times: 1
+	Query: "Eleotris picta" ; Times: 1
+	Query: "Engraulis encrasicolus mappable:1" ; Times: 1
+	Query: "tnhc" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "Sillago sihama" ; Times: 1
+	Query: "Platycephalus indicus" ; Times: 1
+	Query: "KU 4970" ; Times: 1
+	Query: "Bothus podas" ; Times: 1
+	Query: "county:&#34;marshall&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "catalognumber:9885 institutioncode:KU" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "Hyporhamphus affinis" ; Times: 1
+	Query: "catenatus Missouri" ; Times: 1
+	Query: "Remora osteochir" ; Times: 1
+	Query: "heterodon wisconsin" ; Times: 1
+	Query: "Parral" ; Times: 1
+	Query: "Chauliodus sloani" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 1
+	Query: "Equulites klunzingeri" ; Times: 1
+	Query: "Caranx crysos" ; Times: 1
+	Query: "Helicolenus dactylopterus" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "latimeria" ; Times: 1
+	Query: "Cheilopogon heterurus" ; Times: 1
+	Query: "Sudis hyalina" ; Times: 1
+	Query: "Vinciguerria attenuata" ; Times: 1
+	Query: "Etrumeus teres" ; Times: 1
+	Query: "Bocoyna chihuahua" ; Times: 1
+	Query: "Caranx hippos" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "Microstoma microstoma" ; Times: 1
+	Query: "KU 19100" ; Times: 3
+	Query: "KU 10347" ; Times: 2
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "KU 5280" ; Times: 1
+	Query: "Lithognathus mormyrus" ; Times: 1
+	Query: "bocoyna chihuahua" ; Times: 4
+	Query: "Tetrapturus georgii" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "NHM 14102" ; Times: 1
+	Query: "ictalurus furcatus" ; Times: 2
+	Query: "Myctophum punctatum" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Epinephelus marginatus" ; Times: 1
+	Query: "Exocoetus obtusirostris" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Nezumia aequalis" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "ku 24318" ; Times: 1
+	Query: "38572" ; Times: 1
+	Query: "Nemichthys scolopaceus" ; Times: 1
+	Query: "Plotosus lineatus" ; Times: 1
+	Query: "KU 13537" ; Times: 1
+	Query: "costa rica freshwater fish" ; Times: 2
+	Query: "Tetrapturus belone" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "KU 7571" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 976 download events in this period)
+Total number of records downloaded: 837
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 3
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tabasco" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 3
+	Query: "curacao" ; Times: 2
+	Query: "Gambusia" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+
+
+End of report.
